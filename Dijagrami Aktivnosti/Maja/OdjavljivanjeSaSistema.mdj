@@ -162,7 +162,7 @@
 													"top": 103,
 													"width": 151,
 													"height": 26,
-													"text": "Odabir opcije za odjavljivanje sa sistema",
+													"text": "Odabir opcije za odjavu sa korisničkog naloga",
 													"wordWrap": true
 												},
 												{
@@ -355,7 +355,7 @@
 													"top": 183,
 													"width": 150.30615234375,
 													"height": 13,
-													"text": "Odjavljivanje sa sistema"
+													"text": "Odjavljivanje sa naloga"
 												},
 												{
 													"_type": "LabelView",
@@ -824,7 +824,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvKPQx5UBoP18="
 							},
-							"name": "Odabir opcije za odjavljivanje sa sistema"
+							"name": "Odabir opcije za odjavu sa korisničkog naloga"
 						},
 						{
 							"_type": "UMLAction",
@@ -832,7 +832,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvKPQx5UBoP18="
 							},
-							"name": "Odjavljivanje sa sistema"
+							"name": "Odjavljivanje sa naloga"
 						},
 						{
 							"_type": "UMLAction",

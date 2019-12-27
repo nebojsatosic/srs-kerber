@@ -212,7 +212,7 @@
 													"top": 87,
 													"width": 143,
 													"height": 26,
-													"text": "Izbor opcije za brisanje volontera",
+													"text": "Odabir opcije za brisanje volontera",
 													"wordWrap": true
 												},
 												{
@@ -4027,17 +4027,18 @@
 											"model": {
 												"$ref": "AAAAAAFvN7VvEGsJQ7s="
 											},
-											"visible": false,
 											"font": "Arial;13;0",
-											"left": 530,
-											"top": 999,
+											"left": 526,
+											"top": 1000,
+											"width": 62.5244140625,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
+											"alpha": 1.570795942179512,
+											"distance": 42,
 											"hostEdge": {
 												"$ref": "AAAAAAFvN7VvE2sL/4E="
 											},
-											"edgePosition": 1
+											"edgePosition": 1,
+											"text": " {weight=*}"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -4119,7 +4120,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvL/h8ro/yyWc="
 							},
-							"name": "Izbor opcije za brisanje volontera"
+							"name": "Odabir opcije za brisanje volontera"
 						},
 						{
 							"_type": "UMLAction",
@@ -4513,7 +4514,8 @@
 							},
 							"target": {
 								"$ref": "AAAAAAFvMfCCUCBGeKw="
-							}
+							},
+							"weight": "*"
 						}
 					],
 					"groups": [
