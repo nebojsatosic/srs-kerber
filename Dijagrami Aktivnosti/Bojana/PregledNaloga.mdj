@@ -6965,8 +6965,8 @@
 													"left": 189,
 													"top": 583,
 													"width": 159,
-													"height": 39,
-													"text": "Odabir opcije za suspenziju malicioznih korisnika",
+													"height": 26,
+													"text": "Odabir opcije za suspenziju korisnika",
 													"wordWrap": true
 												},
 												{
@@ -7001,7 +7001,7 @@
 											"left": 184,
 											"top": 576,
 											"width": 169,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLnzlbDbVzu8="
 											},
@@ -8004,7 +8004,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLn+1qzh4cRI="
 									},
-									"points": "608:1544;488:1544;488:1616",
+									"points": "608:1544;488:1544;488:1608",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLn+3STinu4U="
@@ -8243,7 +8243,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 767,
+											"left": 759,
 											"top": 1969,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -8264,7 +8264,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 767,
+											"left": 759,
 											"top": 1984,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -8285,7 +8285,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 768,
+											"left": 760,
 											"top": 1939,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -8303,7 +8303,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLn+3yDi4v0s="
 									},
-									"points": "768:1721;768:1960;624:1960",
+									"points": "760:1708;760:1960;624:1960",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLoZZojlsqxs="
@@ -8648,8 +8648,8 @@
 													"left": 693,
 													"top": 1623,
 													"width": 111,
-													"height": 78,
-													"text": "Prikaz obaveštenja o otkazivanju suspenzije malicioznog korisnika",
+													"height": 65,
+													"text": "Prikaz obaveštenja o otkazivanju suspenzije korisnika",
 													"wordWrap": true
 												},
 												{
@@ -8684,7 +8684,7 @@
 											"left": 688,
 											"top": 1616,
 											"width": 121,
-											"height": 90,
+											"height": 77,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLn+3yDi666g="
 											},
@@ -8707,7 +8707,7 @@
 									"left": 688,
 									"top": 1616,
 									"width": 121,
-									"height": 106,
+									"height": 93,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvLn+3yDi5Zec="
 									},
@@ -8880,7 +8880,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 494,
-											"top": 1706,
+											"top": 1702,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -8901,7 +8901,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 509,
-											"top": 1706,
+											"top": 1702,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -8922,7 +8922,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 465,
-											"top": 1707,
+											"top": 1703,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -8939,7 +8939,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLn+2xziONek="
 									},
-									"points": "480:1682;480:1744",
+									"points": "480:1674;480:1744",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvL3EYHpSzp0Q="
@@ -9140,7 +9140,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLn+2xziONek="
 									},
-									"points": "506:1682;506:1714;560:1714",
+									"points": "506:1674;506:1714;560:1714",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvL3KxhZT2eZg="
@@ -9194,8 +9194,8 @@
 													"left": 429,
 													"top": 1855,
 													"width": 135,
-													"height": 52,
-													"text": "Prikaz obaveštenja o uspešnoj suspenziji malicioznog korisnika",
+													"height": 39,
+													"text": "Prikaz obaveštenja o uspešnoj suspenziji korisnika",
 													"wordWrap": true
 												},
 												{
@@ -9230,7 +9230,7 @@
 											"left": 424,
 											"top": 1848,
 											"width": 145,
-											"height": 64,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLoAN1jjrHHM="
 											},
@@ -9288,7 +9288,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 664,
-													"top": 1232,
+													"top": 1216,
 													"height": 13
 												},
 												{
@@ -9299,10 +9299,10 @@
 													},
 													"font": "Arial;13;1",
 													"left": 429,
-													"top": 1623,
+													"top": 1615,
 													"width": 135,
-													"height": 39,
-													"text": "Suspenzija malicioznog korisnika",
+													"height": 13,
+													"text": "Suspenzija korisnika",
 													"wordWrap": true
 												},
 												{
@@ -9314,7 +9314,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 664,
-													"top": 1232,
+													"top": 1216,
 													"width": 86.6708984375,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -9328,16 +9328,16 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 664,
-													"top": 1232,
+													"top": 1216,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 424,
-											"top": 1616,
+											"top": 1608,
 											"width": 145,
-											"height": 51,
+											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLn+2xziQ28I="
 											},
@@ -9358,7 +9358,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 424,
-									"top": 1616,
+									"top": 1608,
 									"width": 145,
 									"height": 67,
 									"nameCompartment": {
@@ -11927,7 +11927,7 @@
 													"left": 405,
 													"top": 495,
 													"width": 119,
-													"height": 39,
+													"height": 26,
 													"text": "Brisanje nepoželjnog komentara",
 													"wordWrap": true
 												},
@@ -11963,7 +11963,7 @@
 											"left": 400,
 											"top": 488,
 											"width": 129,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLpju8TpqrWI="
 											},
@@ -12971,7 +12971,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "Odabir opcije za suspenziju malicioznih korisnika"
+							"name": "Odabir opcije za suspenziju korisnika"
 						},
 						{
 							"_type": "UMLAction",
@@ -14460,7 +14460,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLnyieza/23A="
 									},
-									"name": "Prikaz obaveštenja o otkazivanju suspenzije malicioznog korisnika"
+									"name": "Prikaz obaveštenja o otkazivanju suspenzije korisnika"
 								},
 								{
 									"_type": "UMLMergeNode",
@@ -14502,7 +14502,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLnyieza/23A="
 									},
-									"name": "Prikaz obaveštenja o uspešnoj suspenziji malicioznog korisnika"
+									"name": "Prikaz obaveštenja o uspešnoj suspenziji korisnika"
 								},
 								{
 									"_type": "UMLAction",
@@ -14518,7 +14518,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLnyieza/23A="
 									},
-									"name": "Suspenzija malicioznog korisnika"
+									"name": "Suspenzija korisnika"
 								},
 								{
 									"_type": "UMLAction",
