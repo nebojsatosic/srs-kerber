@@ -53,9 +53,9 @@
 												"$ref": "AAAAAAFvKLB2k1zluk4="
 											},
 											"font": "Arial;13;0",
-											"left": 88,
+											"left": 80,
 											"top": 52,
-											"width": 432,
+											"width": 321,
 											"height": 13,
 											"text": "Korisnik",
 											"verticalAlignment": 3
@@ -64,13 +64,16 @@
 									"containedViews": [
 										{
 											"$ref": "AAAAAAFvKLRP2F2R+ak="
+										},
+										{
+											"$ref": "AAAAAAFvKLEeIFz6z1c="
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 88,
+									"left": 80,
 									"top": 48,
-									"width": 432,
-									"height": 648,
+									"width": 321,
+									"height": 617,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLB2k1zmXBg="
 									}
@@ -92,9 +95,9 @@
 												"$ref": "AAAAAAFvKLCVgVzto0Y="
 											},
 											"font": "Arial;13;0",
-											"left": 520,
+											"left": 400,
 											"top": 52,
-											"width": 489,
+											"width": 345,
 											"height": 13,
 											"text": "Sistem",
 											"verticalAlignment": 3
@@ -109,32 +112,22 @@
 										},
 										{
 											"$ref": "AAAAAAFvKLaAoV4nydU="
+										},
+										{
+											"$ref": "AAAAAAFvKLPRn11lGdk="
+										},
+										{
+											"$ref": "AAAAAAFvKLYe+V36jO8="
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 520,
+									"left": 400,
 									"top": 48,
-									"width": 489,
-									"height": 648,
+									"width": 345,
+									"height": 601,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLCVgVzu1no="
 									}
-								},
-								{
-									"_type": "UMLControlNodeView",
-									"_id": "AAAAAAFvKLEeIFz6z1c=",
-									"_parent": {
-										"$ref": "AAAAAAFvKK6ZV1sp0ag="
-									},
-									"model": {
-										"$ref": "AAAAAAFvKLEeH1z4Akc="
-									},
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 280,
-									"top": 104,
-									"width": 20,
-									"height": 20
 								},
 								{
 									"_type": "UMLActionView",
@@ -164,7 +157,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -112,
+													"left": -224,
+													"top": -48,
 													"height": 13
 												},
 												{
@@ -174,8 +168,8 @@
 														"$ref": "AAAAAAFvKLErJl0A4Dc="
 													},
 													"font": "Arial;13;1",
-													"left": 205,
-													"top": 183,
+													"left": 149,
+													"top": 159,
 													"width": 175,
 													"height": 26,
 													"text": "Odabir opcije za pregled lokacija parkova za pse",
@@ -189,7 +183,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -112,
+													"left": -224,
+													"top": -48,
 													"width": 221.81884765625,
 													"height": 13,
 													"text": "(from Pregled lokacija parkova za pse)"
@@ -202,14 +197,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -112,
+													"left": -224,
+													"top": -48,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 200,
-											"top": 176,
+											"left": 144,
+											"top": 152,
 											"width": 185,
 											"height": 38,
 											"stereotypeLabel": {
@@ -228,8 +224,8 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 200,
-									"top": 176,
+									"left": 144,
+									"top": 152,
 									"width": 185,
 									"height": 54,
 									"nameCompartment": {
@@ -258,8 +254,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 305,
-											"top": 142,
+											"left": 254,
+											"top": 130,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -279,8 +275,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 320,
-											"top": 142,
+											"left": 269,
+											"top": 130,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -300,8 +296,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 276,
-											"top": 143,
+											"left": 225,
+											"top": 131,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -318,7 +314,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLEeIFz6z1c="
 									},
-									"points": "291:123;291:176",
+									"points": "240:123;240:152",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLF2CV0awJk="
@@ -351,8 +347,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 536,
-											"top": 175,
+											"left": 408,
+											"top": 203,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -372,8 +368,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 536,
-											"top": 160,
+											"left": 408,
+											"top": 188,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -393,8 +389,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 536,
-											"top": 205,
+											"left": 408,
+											"top": 233,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -411,7 +407,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLErJlz/FC4="
 									},
-									"points": "384:196;688:196",
+									"points": "240:205;240:224;576:224;576:256",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLJoG11POmE="
@@ -451,8 +447,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1504,
-													"top": -338,
+													"left": 1104,
+													"top": -178,
 													"height": 13
 												},
 												{
@@ -462,11 +458,12 @@
 														"$ref": "AAAAAAFvKLJnxF03DQE="
 													},
 													"font": "Arial;13;1",
-													"left": 693,
-													"top": 183,
-													"width": 216.0615234375,
-													"height": 13,
-													"text": "Prikaz liste lokacija parkova za pse"
+													"left": 493,
+													"top": 263,
+													"width": 175,
+													"height": 26,
+													"text": "Prikaz liste lokacija parkova za pse",
+													"wordWrap": true
 												},
 												{
 													"_type": "LabelView",
@@ -476,8 +473,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1504,
-													"top": -338,
+													"left": 1104,
+													"top": -178,
 													"width": 221.81884765625,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -490,17 +487,17 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1504,
-													"top": -338,
-													"height": 13,
-													"horizontalAlignment": 1
+													"left": 1104,
+													"top": -178,
+													"horizontalAlignment": 1,
+													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 688,
-											"top": 176,
-											"width": 226.0615234375,
-											"height": 25,
+											"left": 488,
+											"top": 256,
+											"width": 185,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvKLJnxF04QRU="
 											},
@@ -520,112 +517,14 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 688,
-									"top": 176,
-									"width": 226.0615234375,
-									"height": 41,
+									"left": 488,
+									"top": 256,
+									"width": 185,
+									"height": 54,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKLJnxF03DQE="
-									}
-								},
-								{
-									"_type": "UMLObjectNodeView",
-									"_id": "AAAAAAFvKLPRn11lGdk=",
-									"_parent": {
-										"$ref": "AAAAAAFvKK6ZV1sp0ag="
 									},
-									"model": {
-										"$ref": "AAAAAAFvKLPRn11jioY="
-									},
-									"subViews": [
-										{
-											"_type": "UMLNameCompartmentView",
-											"_id": "AAAAAAFvKLPRn11mfUc=",
-											"_parent": {
-												"$ref": "AAAAAAFvKLPRn11lGdk="
-											},
-											"model": {
-												"$ref": "AAAAAAFvKLPRn11jioY="
-											},
-											"subViews": [
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLPRn11nkvo=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLPRn11mfUc="
-													},
-													"font": "Arial;13;0",
-													"left": 765,
-													"top": 109,
-													"width": 148.8525390625,
-													"height": 13,
-													"text": "«datastore»"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLPRn11oqHA=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLPRn11mfUc="
-													},
-													"font": "Arial;13;1",
-													"left": 765,
-													"top": 124,
-													"width": 148.8525390625,
-													"height": 13,
-													"text": "Lokacije parkova za pse"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLPRn11pZig=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLPRn11mfUc="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"width": 221.81884765625,
-													"height": 13,
-													"text": "(from Pregled lokacija parkova za pse)"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLPRn11qrfo=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLPRn11mfUc="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"height": 13,
-													"horizontalAlignment": 1
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 760,
-											"top": 104,
-											"width": 158.8525390625,
-											"height": 38,
-											"stereotypeLabel": {
-												"$ref": "AAAAAAFvKLPRn11nkvo="
-											},
-											"nameLabel": {
-												"$ref": "AAAAAAFvKLPRn11oqHA="
-											},
-											"namespaceLabel": {
-												"$ref": "AAAAAAFvKLPRn11pZig="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAFvKLPRn11qrfo="
-											}
-										}
-									],
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 760,
-									"top": 104,
-									"width": 158.8525390625,
-									"height": 38,
-									"nameCompartment": {
-										"$ref": "AAAAAAFvKLPRn11mfUc="
-									}
+									"wordWrap": true
 								},
 								{
 									"_type": "UMLObjectFlowView",
@@ -648,8 +547,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 818,
-											"top": 151,
+											"left": 646,
+											"top": 214,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -669,8 +568,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 833,
-											"top": 151,
+											"left": 661,
+											"top": 214,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -690,8 +589,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 789,
-											"top": 152,
+											"left": 617,
+											"top": 215,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -708,7 +607,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLPRn11lGdk="
 									},
-									"points": "804:141;804:176",
+									"points": "632:186;632:256",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLQEkl2A2jQ="
@@ -741,8 +640,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 800,
-											"top": 345,
+											"left": 409,
+											"top": 337,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -762,8 +661,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 800,
-											"top": 360,
+											"left": 409,
+											"top": 352,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -783,8 +682,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 801,
-											"top": 315,
+											"left": 410,
+											"top": 307,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -801,7 +700,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLJnw102dx8="
 									},
-									"points": "801:216;801:336;389:336",
+									"points": "580:309;580:328;240:328;240:352",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLRQL12qvag="
@@ -841,8 +740,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -1376,
-													"top": 78,
+													"left": -1520,
+													"top": 158,
 													"height": 13
 												},
 												{
@@ -852,8 +751,8 @@
 														"$ref": "AAAAAAFvKLRP2V2SKw4="
 													},
 													"font": "Arial;13;1",
-													"left": 221,
-													"top": 319,
+													"left": 149,
+													"top": 359,
 													"width": 164.01708984375,
 													"height": 13,
 													"text": "Izbor lokacije parka za pse"
@@ -866,8 +765,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -1376,
-													"top": 78,
+													"left": -1520,
+													"top": 158,
 													"width": 221.81884765625,
 													"height": 13,
 													"text": "(from Korisnik)"
@@ -880,15 +779,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -1376,
-													"top": 78,
+													"left": -1520,
+													"top": 158,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 216,
-											"top": 312,
+											"left": 144,
+											"top": 352,
 											"width": 174.01708984375,
 											"height": 25,
 											"stereotypeLabel": {
@@ -910,105 +809,12 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 216,
-									"top": 312,
+									"left": 144,
+									"top": 352,
 									"width": 174.01708984375,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKLRP2V2SKw4="
-									}
-								},
-								{
-									"_type": "UMLControlFlowView",
-									"_id": "AAAAAAFvKLUxzl3e5Mc=",
-									"_parent": {
-										"$ref": "AAAAAAFvKK6ZV1sp0ag="
-									},
-									"model": {
-										"$ref": "AAAAAAFvKLUxzl3dx7s="
-									},
-									"subViews": [
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFvKLUxzl3f2BA=",
-											"_parent": {
-												"$ref": "AAAAAAFvKLUxzl3e5Mc="
-											},
-											"model": {
-												"$ref": "AAAAAAFvKLUxzl3dx7s="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": 296,
-											"top": 459,
-											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
-											"hostEdge": {
-												"$ref": "AAAAAAFvKLUxzl3e5Mc="
-											},
-											"edgePosition": 1
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFvKLUxzl3gVxU=",
-											"_parent": {
-												"$ref": "AAAAAAFvKLUxzl3e5Mc="
-											},
-											"model": {
-												"$ref": "AAAAAAFvKLUxzl3dx7s="
-											},
-											"visible": null,
-											"font": "Arial;13;0",
-											"left": 296,
-											"top": 444,
-											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 30,
-											"hostEdge": {
-												"$ref": "AAAAAAFvKLUxzl3e5Mc="
-											},
-											"edgePosition": 1
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFvKLUxzl3hLkA=",
-											"_parent": {
-												"$ref": "AAAAAAFvKLUxzl3e5Mc="
-											},
-											"model": {
-												"$ref": "AAAAAAFvKLUxzl3dx7s="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": 296,
-											"top": 489,
-											"height": 13,
-											"alpha": -1.5707963267948966,
-											"distance": 15,
-											"hostEdge": {
-												"$ref": "AAAAAAFvKLUxzl3e5Mc="
-											},
-											"edgePosition": 1
-										}
-									],
-									"font": "Arial;13;0",
-									"head": {
-										"$ref": "AAAAAAFvKLUxe13G8mA="
-									},
-									"tail": {
-										"$ref": "AAAAAAFvKLRP2F2R+ak="
-									},
-									"points": "296:352;296:480;728:480",
-									"showVisibility": true,
-									"nameLabel": {
-										"$ref": "AAAAAAFvKLUxzl3f2BA="
-									},
-									"stereotypeLabel": {
-										"$ref": "AAAAAAFvKLUxzl3gVxU="
-									},
-									"propertyLabel": {
-										"$ref": "AAAAAAFvKLUxzl3hLkA="
 									}
 								},
 								{
@@ -1039,8 +845,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1568,
-													"top": 94,
+													"left": 1088,
+													"top": 206,
 													"height": 13
 												},
 												{
@@ -1050,9 +856,9 @@
 														"$ref": "AAAAAAFvKLUxe13H0wk="
 													},
 													"font": "Arial;13;1",
-													"left": 733,
-													"top": 471,
-													"width": 145.96435546875,
+													"left": 493,
+													"top": 527,
+													"width": 175,
 													"height": 13,
 													"text": "Prikaz izabrane lokacije"
 												},
@@ -1064,8 +870,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1568,
-													"top": 94,
+													"left": 1088,
+													"top": 206,
 													"width": 221.81884765625,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -1078,16 +884,16 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1568,
-													"top": 94,
+													"left": 1088,
+													"top": 206,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 728,
-											"top": 464,
-											"width": 155.96435546875,
+											"left": 488,
+											"top": 520,
+											"width": 185,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvKLUxe13I/FI="
@@ -1108,114 +914,13 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 728,
-									"top": 464,
-									"width": 155.96435546875,
+									"left": 488,
+									"top": 520,
+									"width": 185,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKLUxe13H0wk="
 									}
-								},
-								{
-									"_type": "UMLObjectNodeView",
-									"_id": "AAAAAAFvKLYe+V36jO8=",
-									"_parent": {
-										"$ref": "AAAAAAFvKK6ZV1sp0ag="
-									},
-									"model": {
-										"$ref": "AAAAAAFvKLYe+F34Zeo="
-									},
-									"subViews": [
-										{
-											"_type": "UMLNameCompartmentView",
-											"_id": "AAAAAAFvKLYe+V37Rcg=",
-											"_parent": {
-												"$ref": "AAAAAAFvKLYe+V36jO8="
-											},
-											"model": {
-												"$ref": "AAAAAAFvKLYe+F34Zeo="
-											},
-											"subViews": [
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLYe+V38S8E=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLYe+V37Rcg="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -64,
-													"height": 13
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLYe+V39FVc=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLYe+V37Rcg="
-													},
-													"font": "Arial;13;1",
-													"left": 749,
-													"top": 399,
-													"width": 117.0380859375,
-													"height": 26,
-													"text": "Lokacija parka za pse [izabrana]",
-													"wordWrap": true
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLYe+V3+Tbo=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLYe+V37Rcg="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -64,
-													"width": 221.81884765625,
-													"height": 13,
-													"text": "(from Pregled lokacija parkova za pse)"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvKLYe+V3/rNc=",
-													"_parent": {
-														"$ref": "AAAAAAFvKLYe+V37Rcg="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -64,
-													"horizontalAlignment": 1,
-													"wordWrap": true
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 744,
-											"top": 392,
-											"width": 127.0380859375,
-											"height": 38,
-											"stereotypeLabel": {
-												"$ref": "AAAAAAFvKLYe+V38S8E="
-											},
-											"nameLabel": {
-												"$ref": "AAAAAAFvKLYe+V39FVc="
-											},
-											"namespaceLabel": {
-												"$ref": "AAAAAAFvKLYe+V3+Tbo="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAFvKLYe+V3/rNc="
-											}
-										}
-									],
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 744,
-									"top": 392,
-									"width": 127.0380859375,
-									"height": 38,
-									"nameCompartment": {
-										"$ref": "AAAAAAFvKLYe+V37Rcg="
-									},
-									"wordWrap": true
 								},
 								{
 									"_type": "UMLObjectFlowView",
@@ -1238,8 +943,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 820,
-											"top": 439,
+											"left": 590,
+											"top": 495,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1259,8 +964,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 835,
-											"top": 439,
+											"left": 605,
+											"top": 495,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1280,8 +985,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 791,
-											"top": 440,
+											"left": 561,
+											"top": 496,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1298,8 +1003,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLYe+V36jO8="
 									},
-									"lineStyle": 1,
-									"points": "806:430;806:463",
+									"points": "576:485;576:520",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLZo8V4X0Vo="
@@ -1332,8 +1036,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 819,
-											"top": 529,
+											"left": 594,
+											"top": 565,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1353,8 +1057,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 834,
-											"top": 529,
+											"left": 609,
+											"top": 565,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1374,8 +1078,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 790,
-											"top": 530,
+											"left": 565,
+											"top": 566,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1392,7 +1096,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLUxe13G8mA="
 									},
-									"points": "805:504;805:568",
+									"points": "580:560;580:584",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLaA+14sxLs="
@@ -1418,23 +1122,342 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 792,
-									"top": 568,
+									"left": 568,
+									"top": 584,
 									"width": 26,
 									"height": 26
+								},
+								{
+									"_type": "UMLControlNodeView",
+									"_id": "AAAAAAFvKLEeIFz6z1c=",
+									"_parent": {
+										"$ref": "AAAAAAFvKK6ZV1sp0ag="
+									},
+									"model": {
+										"$ref": "AAAAAAFvKLEeH1z4Akc="
+									},
+									"containerView": {
+										"$ref": "AAAAAAFvKLB2k1zluk4="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 232,
+									"top": 104,
+									"width": 20,
+									"height": 20
+								},
+								{
+									"_type": "UMLObjectNodeView",
+									"_id": "AAAAAAFvKLPRn11lGdk=",
+									"_parent": {
+										"$ref": "AAAAAAFvKK6ZV1sp0ag="
+									},
+									"model": {
+										"$ref": "AAAAAAFvKLPRn11jioY="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFvKLPRn11mfUc=",
+											"_parent": {
+												"$ref": "AAAAAAFvKLPRn11lGdk="
+											},
+											"model": {
+												"$ref": "AAAAAAFvKLPRn11jioY="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLPRn11nkvo=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLPRn11mfUc="
+													},
+													"font": "Arial;13;0",
+													"left": 573,
+													"top": 141,
+													"width": 119,
+													"height": 13,
+													"text": "«datastore»"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLPRn11oqHA=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLPRn11mfUc="
+													},
+													"font": "Arial;13;1",
+													"left": 573,
+													"top": 156,
+													"width": 119,
+													"height": 26,
+													"text": "Lokacije parkova za pse",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLPRn11pZig=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLPRn11mfUc="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -568,
+													"top": 64,
+													"width": 221.81884765625,
+													"height": 13,
+													"text": "(from Sistem)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLPRn11qrfo=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLPRn11mfUc="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -568,
+													"top": 64,
+													"horizontalAlignment": 1,
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 568,
+											"top": 136,
+											"width": 129,
+											"height": 51,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFvKLPRn11nkvo="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFvKLPRn11oqHA="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFvKLPRn11pZig="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFvKLPRn11qrfo="
+											}
+										}
+									],
+									"containerView": {
+										"$ref": "AAAAAAFvKLCVgVzto0Y="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 568,
+									"top": 136,
+									"width": 129,
+									"height": 51,
+									"nameCompartment": {
+										"$ref": "AAAAAAFvKLPRn11mfUc="
+									},
+									"wordWrap": true
+								},
+								{
+									"_type": "UMLObjectNodeView",
+									"_id": "AAAAAAFvKLYe+V36jO8=",
+									"_parent": {
+										"$ref": "AAAAAAFvKK6ZV1sp0ag="
+									},
+									"model": {
+										"$ref": "AAAAAAFvKLYe+F34Zeo="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFvKLYe+V37Rcg=",
+											"_parent": {
+												"$ref": "AAAAAAFvKLYe+V36jO8="
+											},
+											"model": {
+												"$ref": "AAAAAAFvKLYe+F34Zeo="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLYe+V38S8E=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLYe+V37Rcg="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -752,
+													"top": 96,
+													"height": 13
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLYe+V39FVc=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLYe+V37Rcg="
+													},
+													"font": "Arial;13;1",
+													"left": 517,
+													"top": 455,
+													"width": 117.0380859375,
+													"height": 26,
+													"text": "Lokacija parka za pse [izabrana]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLYe+V3+Tbo=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLYe+V37Rcg="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -752,
+													"top": 96,
+													"width": 221.81884765625,
+													"height": 13,
+													"text": "(from Sistem)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvKLYe+V3/rNc=",
+													"_parent": {
+														"$ref": "AAAAAAFvKLYe+V37Rcg="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -752,
+													"top": 96,
+													"horizontalAlignment": 1,
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 512,
+											"top": 448,
+											"width": 127.0380859375,
+											"height": 38,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFvKLYe+V38S8E="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFvKLYe+V39FVc="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFvKLYe+V3+Tbo="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFvKLYe+V3/rNc="
+											}
+										}
+									],
+									"containerView": {
+										"$ref": "AAAAAAFvKLCVgVzto0Y="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 512,
+									"top": 448,
+									"width": 127.0380859375,
+									"height": 38,
+									"nameCompartment": {
+										"$ref": "AAAAAAFvKLYe+V37Rcg="
+									},
+									"wordWrap": true
+								},
+								{
+									"_type": "UMLControlFlowView",
+									"_id": "AAAAAAFvUdpBsZV34vE=",
+									"_parent": {
+										"$ref": "AAAAAAFvKK6ZV1sp0ag="
+									},
+									"model": {
+										"$ref": "AAAAAAFvUdpBsZV2tV0="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFvUdpBsZV4uig=",
+											"_parent": {
+												"$ref": "AAAAAAFvUdpBsZV34vE="
+											},
+											"model": {
+												"$ref": "AAAAAAFvUdpBsZV2tV0="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 404,
+											"top": 395,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAFvUdpBsZV34vE="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFvUdpBsZV5tYk=",
+											"_parent": {
+												"$ref": "AAAAAAFvUdpBsZV34vE="
+											},
+											"model": {
+												"$ref": "AAAAAAFvUdpBsZV2tV0="
+											},
+											"visible": null,
+											"font": "Arial;13;0",
+											"left": 404,
+											"top": 380,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 30,
+											"hostEdge": {
+												"$ref": "AAAAAAFvUdpBsZV34vE="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFvUdpBsZV6r94=",
+											"_parent": {
+												"$ref": "AAAAAAFvUdpBsZV34vE="
+											},
+											"model": {
+												"$ref": "AAAAAAFvUdpBsZV2tV0="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 404,
+											"top": 425,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAFvUdpBsZV34vE="
+											},
+											"edgePosition": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAFvKLYe+V36jO8="
+									},
+									"tail": {
+										"$ref": "AAAAAAFvKLRP2F2R+ak="
+									},
+									"points": "240:392;240:416;568:416;568:448",
+									"showVisibility": true,
+									"nameLabel": {
+										"$ref": "AAAAAAFvUdpBsZV4uig="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFvUdpBsZV5tYk="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFvUdpBsZV6r94="
+									}
 								}
 							]
 						}
 					],
 					"nodes": [
-						{
-							"_type": "UMLInitialNode",
-							"_id": "AAAAAAFvKLEeH1z4Akc=",
-							"_parent": {
-								"$ref": "AAAAAAFvKK6ZV1so7XA="
-							},
-							"name": "InitialNode1"
-						},
 						{
 							"_type": "UMLAction",
 							"_id": "AAAAAAFvKLErJlz9+cc=",
@@ -1442,25 +1465,6 @@
 								"$ref": "AAAAAAFvKK6ZV1so7XA="
 							},
 							"name": "Odabir opcije za pregled lokacija parkova za pse"
-						},
-						{
-							"_type": "UMLObjectNode",
-							"_id": "AAAAAAFvKLPRn11jioY=",
-							"_parent": {
-								"$ref": "AAAAAAFvKK6ZV1so7XA="
-							},
-							"name": "Lokacije parkova za pse",
-							"stereotype": "datastore",
-							"ordering": "FIFO"
-						},
-						{
-							"_type": "UMLObjectNode",
-							"_id": "AAAAAAFvKLYe+F34Zeo=",
-							"_parent": {
-								"$ref": "AAAAAAFvKK6ZV1so7XA="
-							},
-							"name": "Lokacija parka za pse [izabrana]",
-							"ordering": "FIFO"
 						}
 					],
 					"edges": [
@@ -1554,6 +1558,19 @@
 							"target": {
 								"$ref": "AAAAAAFvKLaAoV4lmrE="
 							}
+						},
+						{
+							"_type": "UMLControlFlow",
+							"_id": "AAAAAAFvUdpBsZV2tV0=",
+							"_parent": {
+								"$ref": "AAAAAAFvKK6ZV1so7XA="
+							},
+							"source": {
+								"$ref": "AAAAAAFvKLRP2F2PM0c="
+							},
+							"target": {
+								"$ref": "AAAAAAFvKLYe+F34Zeo="
+							}
 						}
 					],
 					"groups": [
@@ -1572,6 +1589,14 @@
 										"$ref": "AAAAAAFvKLB2kVzjYQg="
 									},
 									"name": "Izbor lokacije parka za pse"
+								},
+								{
+									"_type": "UMLInitialNode",
+									"_id": "AAAAAAFvKLEeH1z4Akc=",
+									"_parent": {
+										"$ref": "AAAAAAFvKLB2kVzjYQg="
+									},
+									"name": "InitialNode1"
 								}
 							]
 						},
@@ -1606,6 +1631,25 @@
 										"$ref": "AAAAAAFvKLCVgVzrKRA="
 									},
 									"name": "ActivityFinalNode1"
+								},
+								{
+									"_type": "UMLObjectNode",
+									"_id": "AAAAAAFvKLPRn11jioY=",
+									"_parent": {
+										"$ref": "AAAAAAFvKLCVgVzrKRA="
+									},
+									"name": "Lokacije parkova za pse",
+									"stereotype": "datastore",
+									"ordering": "FIFO"
+								},
+								{
+									"_type": "UMLObjectNode",
+									"_id": "AAAAAAFvKLYe+F34Zeo=",
+									"_parent": {
+										"$ref": "AAAAAAFvKLCVgVzrKRA="
+									},
+									"name": "Lokacija parka za pse [izabrana]",
+									"ordering": "FIFO"
 								}
 							]
 						}
@@ -1646,7 +1690,7 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": 68,
-											"width": 392,
+											"width": 353,
 											"height": 13,
 											"text": "Administrator",
 											"verticalAlignment": 3
@@ -1666,8 +1710,8 @@
 									"font": "Arial;13;0",
 									"left": 80,
 									"top": 64,
-									"width": 392,
-									"height": 825,
+									"width": 353,
+									"height": 801,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLtpjV5JDvo="
 									}
@@ -1689,9 +1733,9 @@
 												"$ref": "AAAAAAFvKLuc915RanU="
 											},
 											"font": "Arial;13;0",
-											"left": 472,
+											"left": 432,
 											"top": 68,
-											"width": 400,
+											"width": 377,
 											"height": 13,
 											"text": "Sistem",
 											"verticalAlignment": 3
@@ -1712,10 +1756,10 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 472,
+									"left": 432,
 									"top": 64,
-									"width": 400,
-									"height": 817,
+									"width": 377,
+									"height": 793,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLuc+F5Sb60="
 									}
@@ -1731,7 +1775,7 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 264,
+									"left": 248,
 									"top": 112,
 									"width": 20,
 									"height": 20
@@ -1764,8 +1808,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -272,
-													"top": 48,
+													"left": -256,
+													"top": -16,
 													"height": 13
 												},
 												{
@@ -1775,9 +1819,9 @@
 														"$ref": "AAAAAAFvKLvbK15hzYE="
 													},
 													"font": "Arial;13;1",
-													"left": 157,
-													"top": 199,
-													"width": 231,
+													"left": 165,
+													"top": 167,
+													"width": 183,
 													"height": 26,
 													"text": "Odabir opcije za dodavanje lokacije parka za pse",
 													"wordWrap": true
@@ -1790,8 +1834,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -272,
-													"top": 48,
+													"left": -256,
+													"top": -16,
 													"width": 225.43701171875,
 													"height": 13,
 													"text": "(from Administrator)"
@@ -1804,16 +1848,16 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -272,
-													"top": 48,
+													"left": -256,
+													"top": -16,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 152,
-											"top": 192,
-											"width": 241,
+											"left": 160,
+											"top": 160,
+											"width": 193,
 											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvKLvbK15iTME="
@@ -1834,9 +1878,9 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 152,
-									"top": 192,
-									"width": 241,
+									"left": 160,
+									"top": 160,
+									"width": 193,
 									"height": 54,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKLvbK15hzYE="
@@ -1864,8 +1908,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 287,
-											"top": 154,
+											"left": 270,
+											"top": 138,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1885,8 +1929,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 302,
-											"top": 154,
+											"left": 285,
+											"top": 138,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1906,8 +1950,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 258,
-											"top": 155,
+											"left": 241,
+											"top": 139,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1924,7 +1968,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLvNTF5bPQg="
 									},
-									"points": "273:131;273:192",
+									"points": "256:131;256:160",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKLxSIF5+mpw="
@@ -1957,8 +2001,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 492,
-											"top": 197,
+											"left": 452,
+											"top": 219,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -1978,8 +2022,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 492,
-											"top": 182,
+											"left": 452,
+											"top": 204,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1999,8 +2043,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 492,
-											"top": 227,
+											"left": 452,
+											"top": 249,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2017,8 +2061,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKLvbKl5gh8c="
 									},
-									"lineStyle": 1,
-									"points": "393:218;591:218",
+									"points": "256:213;256:240;648:240;648:264",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKL7IRV6pIFk="
@@ -2058,8 +2101,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1360,
-													"top": -321,
+													"left": 1264,
+													"top": -177,
 													"height": 13
 												},
 												{
@@ -2069,8 +2112,8 @@
 														"$ref": "AAAAAAFvKL7H8V6RubA="
 													},
 													"font": "Arial;13;1",
-													"left": 597,
-													"top": 199,
+													"left": 549,
+													"top": 271,
 													"width": 199,
 													"height": 26,
 													"text": "Prikaz forme za dodavanje lokacije parka za pse",
@@ -2084,8 +2127,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1360,
-													"top": -321,
+													"left": 1264,
+													"top": -177,
 													"width": 225.43701171875,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -2098,15 +2141,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1360,
-													"top": -321,
+													"left": 1264,
+													"top": -177,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 592,
-											"top": 192,
+											"left": 544,
+											"top": 264,
 											"width": 209,
 											"height": 38,
 											"stereotypeLabel": {
@@ -2128,8 +2171,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 592,
-									"top": 192,
+									"left": 544,
+									"top": 264,
 									"width": 209,
 									"height": 54,
 									"nameCompartment": {
@@ -2165,8 +2208,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -1072,
-													"top": 223,
+													"left": -1152,
+													"top": 111,
 													"height": 13
 												},
 												{
@@ -2176,8 +2219,8 @@
 														"$ref": "AAAAAAFvKMAltl7wBFU="
 													},
 													"font": "Arial;13;1",
-													"left": 237,
-													"top": 423,
+													"left": 197,
+													"top": 367,
 													"width": 124.2490234375,
 													"height": 13,
 													"text": "Popunjavanje forme"
@@ -2190,8 +2233,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -1072,
-													"top": 223,
+													"left": -1152,
+													"top": 111,
 													"width": 225.43701171875,
 													"height": 13,
 													"text": "(from Administrator)"
@@ -2204,15 +2247,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -1072,
-													"top": 223,
+													"left": -1152,
+													"top": 111,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 232,
-											"top": 416,
+											"left": 192,
+											"top": 360,
 											"width": 134.2490234375,
 											"height": 25,
 											"stereotypeLabel": {
@@ -2234,8 +2277,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 232,
-									"top": 416,
+									"left": 192,
+									"top": 360,
 									"width": 134.2490234375,
 									"height": 41,
 									"nameCompartment": {
@@ -2263,8 +2306,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 311,
-											"top": 493,
+											"left": 270,
+											"top": 405,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2284,8 +2327,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 326,
-											"top": 493,
+											"left": 285,
+											"top": 405,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2305,8 +2348,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 282,
-											"top": 494,
+											"left": 241,
+											"top": 406,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2323,7 +2366,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKMAltV7vYbs="
 									},
-									"points": "297:456;297:544",
+									"points": "256:400;256:424",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKMCLa183wGM="
@@ -2363,8 +2406,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 104,
-													"top": 196,
+													"left": 24,
+													"top": -44,
 													"height": 13
 												},
 												{
@@ -2374,8 +2417,8 @@
 														"$ref": "AAAAAAFvKMCLCF8fvkY="
 													},
 													"font": "Arial;13;1",
-													"left": 253,
-													"top": 551,
+													"left": 213,
+													"top": 431,
 													"width": 90.29541015625,
 													"height": 13,
 													"text": "Potvrda unosa"
@@ -2388,8 +2431,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 104,
-													"top": 196,
+													"left": 24,
+													"top": -44,
 													"width": 225.43701171875,
 													"height": 13,
 													"text": "(from Administrator)"
@@ -2402,15 +2445,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 104,
-													"top": 196,
+													"left": 24,
+													"top": -44,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 248,
-											"top": 544,
+											"left": 208,
+											"top": 424,
 											"width": 100.29541015625,
 											"height": 25,
 											"stereotypeLabel": {
@@ -2432,8 +2475,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 248,
-									"top": 544,
+									"left": 208,
+									"top": 424,
 									"width": 100.29541015625,
 									"height": 41,
 									"nameCompartment": {
@@ -2461,8 +2504,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 489,
-											"top": 543,
+											"left": 452,
+											"top": 467,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2482,8 +2525,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 489,
-											"top": 528,
+											"left": 452,
+											"top": 452,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2503,8 +2546,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 489,
-											"top": 573,
+											"left": 452,
+											"top": 497,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2521,8 +2564,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKMCLCF8ekGE="
 									},
-									"lineStyle": 1,
-									"points": "348:564;631:564",
+									"points": "256:464;256:488;648:488;648:512",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKMI2Ul/vsPE="
@@ -2562,8 +2604,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1224,
-													"top": -170,
+													"left": 1112,
+													"top": -234,
 													"height": 13
 												},
 												{
@@ -2573,8 +2615,8 @@
 														"$ref": "AAAAAAFvKMI15V/Xj6E="
 													},
 													"font": "Arial;13;1",
-													"left": 637,
-													"top": 551,
+													"left": 581,
+													"top": 519,
 													"width": 143.7744140625,
 													"height": 13,
 													"text": "Čuvanje unosa lokacije"
@@ -2587,8 +2629,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1224,
-													"top": -170,
+													"left": 1112,
+													"top": -234,
 													"width": 225.43701171875,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -2601,15 +2643,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1224,
-													"top": -170,
+													"left": 1112,
+													"top": -234,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 632,
-											"top": 544,
+											"left": 576,
+											"top": 512,
 											"width": 153.7744140625,
 											"height": 25,
 											"stereotypeLabel": {
@@ -2631,8 +2673,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 632,
-									"top": 544,
+									"left": 576,
+									"top": 512,
 									"width": 153.7744140625,
 									"height": 41,
 									"nameCompartment": {
@@ -2653,10 +2695,10 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 688,
-									"top": 824,
-									"width": 26,
-									"height": 26
+									"left": 632,
+									"top": 800,
+									"width": 33,
+									"height": 33
 								},
 								{
 									"_type": "UMLActionView",
@@ -2686,7 +2728,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -32,
+													"left": -64,
 													"top": -80,
 													"height": 13
 												},
@@ -2697,11 +2739,12 @@
 														"$ref": "AAAAAAFvLePc6B08WwM="
 													},
 													"font": "Arial;13;1",
-													"left": 565,
+													"left": 549,
 													"top": 719,
-													"width": 277.47509765625,
-													"height": 13,
-													"text": "Prikaz ažurirane liste lokacija parkova za pse"
+													"width": 191,
+													"height": 26,
+													"text": "Prikaz ažurirane liste lokacija parkova za pse",
+													"wordWrap": true
 												},
 												{
 													"_type": "LabelView",
@@ -2711,7 +2754,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -32,
+													"left": -64,
 													"top": -80,
 													"width": 225.43701171875,
 													"height": 13,
@@ -2725,17 +2768,17 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -32,
+													"left": -64,
 													"top": -80,
-													"height": 13,
-													"horizontalAlignment": 1
+													"horizontalAlignment": 1,
+													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 560,
+											"left": 544,
 											"top": 712,
-											"width": 287.47509765625,
-											"height": 25,
+											"width": 201,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLePc6B09fYg="
 											},
@@ -2752,13 +2795,14 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 560,
+									"left": 544,
 									"top": 712,
-									"width": 287.47509765625,
-									"height": 41,
+									"width": 201,
+									"height": 54,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvLePc6B08WwM="
-									}
+									},
+									"wordWrap": true
 								},
 								{
 									"_type": "UMLControlFlowView",
@@ -2781,8 +2825,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 716,
-											"top": 781,
+											"left": 662,
+											"top": 775,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2802,8 +2846,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 731,
-											"top": 781,
+											"left": 677,
+											"top": 775,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2823,8 +2867,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 687,
-											"top": 782,
+											"left": 633,
+											"top": 776,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2841,7 +2885,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLePc6B07Vy4="
 									},
-									"points": "702:752;702:824",
+									"points": "648:765;648:800",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLeRB7R1XtEY="
@@ -2874,8 +2918,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 487,
-											"top": 353,
+											"left": 451,
+											"top": 345,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2895,8 +2939,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 487,
-											"top": 368,
+											"left": 451,
+											"top": 360,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2916,8 +2960,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 488,
-											"top": 323,
+											"left": 452,
+											"top": 315,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2934,7 +2978,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKL7H8V6Q608="
 									},
-									"points": "680:245;680:344;296:344;296:416",
+									"points": "648:317;648:336;256:336;256:360",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvMxfaI9hZMdc="
@@ -2967,8 +3011,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 710,
-											"top": 641,
+											"left": 662,
+											"top": 625,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2988,8 +3032,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 725,
-											"top": 641,
+											"left": 677,
+											"top": 625,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -3009,8 +3053,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 681,
-											"top": 642,
+											"left": 633,
+											"top": 626,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -3027,7 +3071,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKMI15F/Wpu0="
 									},
-									"points": "696:584;696:712",
+									"points": "648:552;648:712",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvMxgUxNht35k="
@@ -3066,8 +3110,8 @@
 														"$ref": "AAAAAAFvNBUF1l2j4vk="
 													},
 													"font": "Arial;13;0",
-													"left": 717,
-													"top": 637,
+													"left": 485,
+													"top": 621,
 													"width": 127,
 													"height": 13,
 													"text": "«datastore»"
@@ -3079,8 +3123,8 @@
 														"$ref": "AAAAAAFvNBUF1l2j4vk="
 													},
 													"font": "Arial;13;1",
-													"left": 717,
-													"top": 652,
+													"left": 485,
+													"top": 636,
 													"width": 127,
 													"height": 26,
 													"text": "Lokacije parkova za pse",
@@ -3094,7 +3138,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -168,
+													"left": -632,
+													"top": -32,
 													"width": 225.43701171875,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -3107,14 +3152,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -168,
+													"left": -632,
+													"top": -32,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 712,
-											"top": 632,
+											"left": 480,
+											"top": 616,
 											"width": 137,
 											"height": 51,
 											"stereotypeLabel": {
@@ -3136,8 +3182,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 712,
-									"top": 632,
+									"left": 480,
+									"top": 616,
 									"width": 137,
 									"height": 51,
 									"nameCompartment": {
@@ -3166,8 +3212,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 767,
-											"top": 690,
+											"left": 598,
+											"top": 682,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -3187,8 +3233,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 782,
-											"top": 690,
+											"left": 613,
+											"top": 682,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -3208,8 +3254,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 738,
-											"top": 691,
+											"left": 569,
+											"top": 683,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -3226,7 +3272,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvNBUF1l2iYtk="
 									},
-									"points": "753:682;753:712",
+									"points": "584:666;584:712",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvNBV3tl3A9fM="
@@ -3671,6 +3717,12 @@
 									"containedViews": [
 										{
 											"$ref": "AAAAAAFvKdo7G+qEm6E="
+										},
+										{
+											"$ref": "AAAAAAFvLeZBnx2wyus="
+										},
+										{
+											"$ref": "AAAAAAFvLeXkNx2lMDM="
 										}
 									],
 									"font": "Arial;13;0",
@@ -3716,6 +3768,15 @@
 										},
 										{
 											"$ref": "AAAAAAFvKd0Pbes/L7o="
+										},
+										{
+											"$ref": "AAAAAAFvLeb8mh39JPw="
+										},
+										{
+											"$ref": "AAAAAAFvLee6DB4uRCo="
+										},
+										{
+											"$ref": "AAAAAAFvMxy1u9jLWDE="
 										}
 									],
 									"font": "Arial;13;0",
@@ -3772,6 +3833,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -176,
+													"top": -32,
 													"height": 13
 												},
 												{
@@ -3782,7 +3844,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 93,
-													"top": 175,
+													"top": 159,
 													"width": 199,
 													"height": 26,
 													"text": "Odabir opcije za brisanje lokacije parka za pse",
@@ -3797,6 +3859,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -176,
+													"top": -32,
 													"width": 210.2470703125,
 													"height": 13,
 													"text": "(from Brisanje lokacije parka za pse)"
@@ -3810,13 +3873,14 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -176,
+													"top": -32,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 88,
-											"top": 168,
+											"top": 152,
 											"width": 209,
 											"height": 38,
 											"stereotypeLabel": {
@@ -3836,7 +3900,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 88,
-									"top": 168,
+									"top": 152,
 									"width": 209,
 									"height": 54,
 									"nameCompartment": {
@@ -3866,7 +3930,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 207,
-											"top": 142,
+											"top": 134,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -3887,7 +3951,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 222,
-											"top": 142,
+											"top": 134,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -3908,7 +3972,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 178,
-											"top": 143,
+											"top": 135,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -3925,7 +3989,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKdjdguohJW4="
 									},
-									"points": "193:131;193:168",
+									"points": "193:131;193:152",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKdlrUepEFrM="
@@ -3958,8 +4022,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 392,
-											"top": 171,
+											"left": 384,
+											"top": 203,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -3979,8 +4043,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 392,
-											"top": 156,
+											"left": 384,
+											"top": 188,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -4000,8 +4064,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 392,
-											"top": 201,
+											"left": 384,
+											"top": 233,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -4018,7 +4082,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKdjpyuomQg4="
 									},
-									"points": "296:192;488:192",
+									"points": "192:205;192:224;576:224;576:248",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKdmsM+pvcLM="
@@ -4059,7 +4123,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1216,
-													"top": -369,
+													"top": -209,
 													"height": 13
 												},
 												{
@@ -4070,7 +4134,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 493,
-													"top": 175,
+													"top": 255,
 													"width": 174.1162109375,
 													"height": 13,
 													"text": "Traženje potvrde za brisanje"
@@ -4084,7 +4148,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1216,
-													"top": -369,
+													"top": -209,
 													"width": 210.2470703125,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -4098,14 +4162,14 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1216,
-													"top": -369,
+													"top": -209,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 488,
-											"top": 168,
+											"top": 248,
 											"width": 184.1162109375,
 											"height": 25,
 											"stereotypeLabel": {
@@ -4128,7 +4192,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 488,
-									"top": 168,
+									"top": 248,
 									"width": 184.1162109375,
 									"height": 41,
 									"nameCompartment": {
@@ -4156,8 +4220,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 387,
-											"top": 257,
+											"left": 383,
+											"top": 313,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -4177,8 +4241,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 387,
-											"top": 272,
+											"left": 383,
+											"top": 328,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -4198,8 +4262,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 388,
-											"top": 227,
+											"left": 384,
+											"top": 283,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -4216,7 +4280,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKdmrx+pWNRE="
 									},
-									"points": "584:208;584:248;192:248;192:296",
+									"points": "576:288;576:304;192:304;192:328",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKdo7i+qd9qo="
@@ -4256,8 +4320,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -840,
-													"top": 174,
+													"left": -872,
+													"top": 206,
 													"height": 13
 												},
 												{
@@ -4267,8 +4331,8 @@
 														"$ref": "AAAAAAFvKdo7G+qFSYc="
 													},
 													"font": "Arial;13;1",
-													"left": 237,
-													"top": 367,
+													"left": 221,
+													"top": 383,
 													"width": 101.8671875,
 													"height": 13,
 													"text": "Potvrda brisanja"
@@ -4281,8 +4345,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -840,
-													"top": 174,
+													"left": -872,
+													"top": 206,
 													"width": 210.2470703125,
 													"height": 13,
 													"text": "(from Administrator)"
@@ -4295,15 +4359,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -840,
-													"top": 174,
+													"left": -872,
+													"top": 206,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 232,
-											"top": 360,
+											"left": 216,
+											"top": 376,
 											"width": 111.8671875,
 											"height": 25,
 											"stereotypeLabel": {
@@ -4325,8 +4389,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 232,
-									"top": 360,
+									"left": 216,
+									"top": 376,
 									"width": 111.8671875,
 									"height": 41,
 									"nameCompartment": {
@@ -4354,8 +4418,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 288,
-											"top": 444,
+											"left": 432,
+											"top": 411,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -4375,8 +4439,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 288,
-											"top": 429,
+											"left": 432,
+											"top": 396,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -4396,8 +4460,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 288,
-											"top": 474,
+											"left": 432,
+											"top": 441,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -4414,7 +4478,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKdo7G+qEm6E="
 									},
-									"points": "288:400;288:465;480:465",
+									"points": "272:416;272:432;592:432;592:456",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKds8x+rSoMU="
@@ -4455,7 +4519,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1096,
-													"top": 78,
+													"top": 94,
 													"height": 13
 												},
 												{
@@ -4466,7 +4530,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 485,
-													"top": 455,
+													"top": 463,
 													"width": 216.0234375,
 													"height": 13,
 													"text": "Brisanje lokacije parka za pse"
@@ -4480,7 +4544,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1096,
-													"top": 78,
+													"top": 94,
 													"width": 210.2470703125,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -4494,14 +4558,14 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 1096,
-													"top": 78,
+													"top": 94,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 480,
-											"top": 448,
+											"top": 456,
 											"width": 226.0234375,
 											"height": 25,
 											"stereotypeLabel": {
@@ -4524,7 +4588,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 480,
-									"top": 448,
+									"top": 456,
 									"width": 226.0234375,
 									"height": 41,
 									"nameCompartment": {
@@ -4545,125 +4609,10 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 584,
-									"top": 776,
-									"width": 26,
-									"height": 26
-								},
-								{
-									"_type": "UMLControlNodeView",
-									"_id": "AAAAAAFvLeXkNx2lMDM=",
-									"_parent": {
-										"$ref": "AAAAAAFvKdYKZuoGShM="
-									},
-									"model": {
-										"$ref": "AAAAAAFvLeXkNh2jL30="
-									},
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 184,
-									"top": 296,
-									"width": 23,
-									"height": 19
-								},
-								{
-									"_type": "UMLActionView",
-									"_id": "AAAAAAFvLeZBnx2wyus=",
-									"_parent": {
-										"$ref": "AAAAAAFvKdYKZuoGShM="
-									},
-									"model": {
-										"$ref": "AAAAAAFvLeZBnx2uXCg="
-									},
-									"subViews": [
-										{
-											"_type": "UMLNameCompartmentView",
-											"_id": "AAAAAAFvLeZBnx2xdpg=",
-											"_parent": {
-												"$ref": "AAAAAAFvLeZBnx2wyus="
-											},
-											"model": {
-												"$ref": "AAAAAAFvLeZBnx2uXCg="
-											},
-											"subViews": [
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeZBnx2ykmQ=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeZBnx2xdpg="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -48,
-													"height": 13
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeZBnx2zfjg=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeZBnx2xdpg="
-													},
-													"font": "Arial;13;1",
-													"left": 45,
-													"top": 367,
-													"width": 147.3671875,
-													"height": 13,
-													"text": "Otkazivanje brisanja"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeZBnx20fVk=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeZBnx2xdpg="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -48,
-													"width": 210.2470703125,
-													"height": 13,
-													"text": "(from Brisanje lokacije parka za pse)"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeZBnx21ob0=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeZBnx2xdpg="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -48,
-													"height": 13,
-													"horizontalAlignment": 1
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 40,
-											"top": 360,
-											"width": 157.3671875,
-											"height": 25,
-											"stereotypeLabel": {
-												"$ref": "AAAAAAFvLeZBnx2ykmQ="
-											},
-											"nameLabel": {
-												"$ref": "AAAAAAFvLeZBnx2zfjg="
-											},
-											"namespaceLabel": {
-												"$ref": "AAAAAAFvLeZBnx20fVk="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAFvLeZBnx21ob0="
-											}
-										}
-									],
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 40,
-									"top": 360,
-									"width": 157.3671875,
-									"height": 41,
-									"nameCompartment": {
-										"$ref": "AAAAAAFvLeZBnx2xdpg="
-									}
+									"left": 576,
+									"top": 800,
+									"width": 33,
+									"height": 33
 								},
 								{
 									"_type": "UMLControlFlowView",
@@ -4684,17 +4633,18 @@
 											"model": {
 												"$ref": "AAAAAAFvLeaGmh3LN0c="
 											},
-											"visible": false,
 											"font": "Arial;13;0",
-											"left": 134,
-											"top": 298,
+											"left": 88,
+											"top": 320,
+											"width": 90.32080078125,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
+											"alpha": 2.516106935739099,
+											"distance": 22.20360331117452,
 											"hostEdge": {
 												"$ref": "AAAAAAFvLeaGmx3MCGc="
 											},
-											"edgePosition": 1
+											"edgePosition": 1,
+											"text": "[otkaži brisanje]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -4708,7 +4658,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 149,
-											"top": 298,
+											"top": 337,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -4729,7 +4679,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 105,
-											"top": 299,
+											"top": 338,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -4746,7 +4696,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLeXkNx2lMDM="
 									},
-									"points": "184:305;120:305;120:360",
+									"points": "176:344;120:344;120:376",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLeaGmx3Nnlw="
@@ -4777,17 +4727,18 @@
 											"model": {
 												"$ref": "AAAAAAFvLeaWBx3ct64="
 											},
-											"visible": false,
 											"font": "Arial;13;0",
-											"left": 294,
-											"top": 298,
+											"left": 215,
+											"top": 319,
+											"width": 38.2890625,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
+											"alpha": -2.0131709640816178,
+											"distance": 42.04759208325728,
 											"hostEdge": {
 												"$ref": "AAAAAAFvLeaWBx3dGTY="
 											},
-											"edgePosition": 1
+											"edgePosition": 1,
+											"text": "[obriši]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -4800,8 +4751,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 309,
-											"top": 298,
+											"left": 301,
+											"top": 337,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -4821,8 +4772,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 265,
-											"top": 299,
+											"left": 257,
+											"top": 338,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -4839,7 +4790,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLeXkNx2lMDM="
 									},
-									"points": "206:305;280:305;280:360",
+									"points": "208:344;272:344;272:376",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLeaWBx3ehUc="
@@ -4849,105 +4800,6 @@
 									},
 									"propertyLabel": {
 										"$ref": "AAAAAAFvLeaWBx3gb3Y="
-									}
-								},
-								{
-									"_type": "UMLActionView",
-									"_id": "AAAAAAFvLeb8mh39JPw=",
-									"_parent": {
-										"$ref": "AAAAAAFvKdYKZuoGShM="
-									},
-									"model": {
-										"$ref": "AAAAAAFvLeb8mh37b6I="
-									},
-									"subViews": [
-										{
-											"_type": "UMLNameCompartmentView",
-											"_id": "AAAAAAFvLeb8mx3+rPc=",
-											"_parent": {
-												"$ref": "AAAAAAFvLeb8mh39JPw="
-											},
-											"model": {
-												"$ref": "AAAAAAFvLeb8mh37b6I="
-											},
-											"subViews": [
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeb8mx3/r6w=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeb8mx3+rPc="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -144,
-													"height": 13
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeb8mx4ApmE=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeb8mx3+rPc="
-													},
-													"font": "Arial;13;1",
-													"left": 461,
-													"top": 679,
-													"width": 277.47509765625,
-													"height": 13,
-													"text": "Prikaz liste lokacija parkova za pse"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeb8mx4BDaI=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeb8mx3+rPc="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -144,
-													"width": 210.2470703125,
-													"height": 13,
-													"text": "(from Brisanje lokacije parka za pse)"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLeb8mx4C/0c=",
-													"_parent": {
-														"$ref": "AAAAAAFvLeb8mx3+rPc="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": -144,
-													"height": 13,
-													"horizontalAlignment": 1
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 456,
-											"top": 672,
-											"width": 287.47509765625,
-											"height": 25,
-											"stereotypeLabel": {
-												"$ref": "AAAAAAFvLeb8mx3/r6w="
-											},
-											"nameLabel": {
-												"$ref": "AAAAAAFvLeb8mx4ApmE="
-											},
-											"namespaceLabel": {
-												"$ref": "AAAAAAFvLeb8mx4BDaI="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAFvLeb8mx4C/0c="
-											}
-										}
-									],
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 456,
-									"top": 672,
-									"width": 287.47509765625,
-									"height": 41,
-									"nameCompartment": {
-										"$ref": "AAAAAAFvLeb8mx3+rPc="
 									}
 								},
 								{
@@ -4971,8 +4823,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 612,
-											"top": 737,
+											"left": 606,
+											"top": 775,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -4992,8 +4844,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 627,
-											"top": 737,
+											"left": 621,
+											"top": 775,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -5013,8 +4865,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 583,
-											"top": 738,
+											"left": 577,
+											"top": 776,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -5031,7 +4883,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLeb8mh39JPw="
 									},
-									"points": "598:712;598:776",
+									"points": "592:765;592:800",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLeef2x4cFkc="
@@ -5042,22 +4894,6 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAFvLeef2x4eqFs="
 									}
-								},
-								{
-									"_type": "UMLControlNodeView",
-									"_id": "AAAAAAFvLee6DB4uRCo=",
-									"_parent": {
-										"$ref": "AAAAAAFvKdYKZuoGShM="
-									},
-									"model": {
-										"$ref": "AAAAAAFvLee6DB4sTMA="
-									},
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 584,
-									"top": 608,
-									"width": 23,
-									"height": 19
 								},
 								{
 									"_type": "UMLControlFlowView",
@@ -5080,8 +4916,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 610,
-											"top": 642,
+											"left": 606,
+											"top": 689,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -5101,8 +4937,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 625,
-											"top": 642,
+											"left": 621,
+											"top": 689,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -5122,8 +4958,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 581,
-											"top": 643,
+											"left": 577,
+											"top": 690,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -5140,7 +4976,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLee6DB4uRCo="
 									},
-									"points": "596:626;596:672",
+									"points": "592:680;592:712",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLefNYB4zVcw="
@@ -5174,7 +5010,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 112,
-											"top": 596,
+											"top": 643,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -5195,7 +5031,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 112,
-											"top": 581,
+											"top": 628,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -5216,7 +5052,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 112,
-											"top": 626,
+											"top": 673,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -5233,7 +5069,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLeZBnx2wyus="
 									},
-									"points": "112:400;112:617;584:617",
+									"points": "112:416;112:664;576:664",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLegV/B5WLOQ="
@@ -5267,7 +5103,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 606,
-											"top": 541,
+											"top": 565,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -5288,7 +5124,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 621,
-											"top": 541,
+											"top": 565,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -5309,7 +5145,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 577,
-											"top": 542,
+											"top": 566,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -5326,7 +5162,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKds8O+q5TD8="
 									},
-									"points": "592:488;592:608",
+									"points": "592:496;592:648",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLwWOgDi/xoY="
@@ -5465,7 +5301,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 678,
-											"top": 497,
+											"top": 501,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -5486,7 +5322,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 693,
-											"top": 497,
+											"top": 501,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -5507,7 +5343,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 649,
-											"top": 498,
+											"top": 502,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -5524,7 +5360,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKds8O+q5TD8="
 									},
-									"points": "664:488;664:520",
+									"points": "664:496;664:520",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvMxxbLtikslA="
@@ -5535,6 +5371,351 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAFvMxxbLtimqDE="
 									}
+								},
+								{
+									"_type": "UMLObjectFlowView",
+									"_id": "AAAAAAFvMx18UNju9/I=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdYKZuoGShM="
+									},
+									"model": {
+										"$ref": "AAAAAAFvMx18UNjs7ww="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFvMx18UNjvfUU=",
+											"_parent": {
+												"$ref": "AAAAAAFvMx18UNju9/I="
+											},
+											"model": {
+												"$ref": "AAAAAAFvMx18UNjs7ww="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 669,
+											"top": 686,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAFvMx18UNju9/I="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFvMx18UNjwbjM=",
+											"_parent": {
+												"$ref": "AAAAAAFvMx18UNju9/I="
+											},
+											"model": {
+												"$ref": "AAAAAAFvMx18UNjs7ww="
+											},
+											"visible": null,
+											"font": "Arial;13;0",
+											"left": 684,
+											"top": 686,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 30,
+											"hostEdge": {
+												"$ref": "AAAAAAFvMx18UNju9/I="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFvMx18Udjxqpw=",
+											"_parent": {
+												"$ref": "AAAAAAFvMx18UNju9/I="
+											},
+											"model": {
+												"$ref": "AAAAAAFvMx18UNjs7ww="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 640,
+											"top": 687,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAFvMx18UNju9/I="
+											},
+											"edgePosition": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAFvLeb8mh39JPw="
+									},
+									"tail": {
+										"$ref": "AAAAAAFvMxy1u9jLWDE="
+									},
+									"points": "655:674;655:712",
+									"showVisibility": true,
+									"nameLabel": {
+										"$ref": "AAAAAAFvMx18UNjvfUU="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFvMx18UNjwbjM="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFvMx18Udjxqpw="
+									}
+								},
+								{
+									"_type": "UMLActionView",
+									"_id": "AAAAAAFvLeZBnx2wyus=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdYKZuoGShM="
+									},
+									"model": {
+										"$ref": "AAAAAAFvLeZBnx2uXCg="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFvLeZBnx2xdpg=",
+											"_parent": {
+												"$ref": "AAAAAAFvLeZBnx2wyus="
+											},
+											"model": {
+												"$ref": "AAAAAAFvLeZBnx2uXCg="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeZBnx2ykmQ=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeZBnx2xdpg="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -48,
+													"top": 104,
+													"height": 13
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeZBnx2zfjg=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeZBnx2xdpg="
+													},
+													"font": "Arial;13;1",
+													"left": 53,
+													"top": 383,
+													"width": 127,
+													"height": 13,
+													"text": "Otkazivanje brisanja",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeZBnx20fVk=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeZBnx2xdpg="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -48,
+													"top": 104,
+													"width": 210.2470703125,
+													"height": 13,
+													"text": "(from Administrator)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeZBnx21ob0=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeZBnx2xdpg="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -48,
+													"top": 104,
+													"horizontalAlignment": 1,
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 48,
+											"top": 376,
+											"width": 137,
+											"height": 25,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFvLeZBnx2ykmQ="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFvLeZBnx2zfjg="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFvLeZBnx20fVk="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFvLeZBnx21ob0="
+											}
+										}
+									],
+									"containerView": {
+										"$ref": "AAAAAAFvKdhOLeoOOoE="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 48,
+									"top": 376,
+									"width": 137,
+									"height": 41,
+									"nameCompartment": {
+										"$ref": "AAAAAAFvLeZBnx2xdpg="
+									},
+									"wordWrap": true
+								},
+								{
+									"_type": "UMLControlNodeView",
+									"_id": "AAAAAAFvLeXkNx2lMDM=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdYKZuoGShM="
+									},
+									"model": {
+										"$ref": "AAAAAAFvLeXkNh2jL30="
+									},
+									"containerView": {
+										"$ref": "AAAAAAFvKdhOLeoOOoE="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 176,
+									"top": 328,
+									"width": 33,
+									"height": 35
+								},
+								{
+									"_type": "UMLActionView",
+									"_id": "AAAAAAFvLeb8mh39JPw=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdYKZuoGShM="
+									},
+									"model": {
+										"$ref": "AAAAAAFvLeb8mh37b6I="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFvLeb8mx3+rPc=",
+											"_parent": {
+												"$ref": "AAAAAAFvLeb8mh39JPw="
+											},
+											"model": {
+												"$ref": "AAAAAAFvLeb8mh37b6I="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeb8mx3/r6w=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeb8mx3+rPc="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -96,
+													"top": 112,
+													"height": 13
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeb8mx4ApmE=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeb8mx3+rPc="
+													},
+													"font": "Arial;13;1",
+													"left": 485,
+													"top": 719,
+													"width": 207,
+													"height": 26,
+													"text": "Prikaz liste lokacija parkova za pse",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeb8mx4BDaI=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeb8mx3+rPc="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -96,
+													"top": 112,
+													"width": 210.2470703125,
+													"height": 13,
+													"text": "(from Sistem)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLeb8mx4C/0c=",
+													"_parent": {
+														"$ref": "AAAAAAFvLeb8mx3+rPc="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -96,
+													"top": 112,
+													"horizontalAlignment": 1,
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 480,
+											"top": 712,
+											"width": 217,
+											"height": 38,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFvLeb8mx3/r6w="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFvLeb8mx4ApmE="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFvLeb8mx4BDaI="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFvLeb8mx4C/0c="
+											}
+										}
+									],
+									"containerView": {
+										"$ref": "AAAAAAFvKdikYOoY/0A="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 480,
+									"top": 712,
+									"width": 217,
+									"height": 54,
+									"nameCompartment": {
+										"$ref": "AAAAAAFvLeb8mx3+rPc="
+									},
+									"wordWrap": true
+								},
+								{
+									"_type": "UMLControlNodeView",
+									"_id": "AAAAAAFvLee6DB4uRCo=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdYKZuoGShM="
+									},
+									"model": {
+										"$ref": "AAAAAAFvLee6DB4sTMA="
+									},
+									"containerView": {
+										"$ref": "AAAAAAFvKdikYOoY/0A="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 576,
+									"top": 648,
+									"width": 33,
+									"height": 33
 								},
 								{
 									"_type": "UMLDataStoreNodeView",
@@ -5564,7 +5745,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 629,
-													"top": 589,
+													"top": 629,
 													"width": 103,
 													"height": 13,
 													"text": "«datastore»"
@@ -5577,7 +5758,7 @@
 													},
 													"font": "Arial;13;1",
 													"left": 629,
-													"top": 604,
+													"top": 644,
 													"width": 103,
 													"height": 26,
 													"text": "Lokacije parkova za pse",
@@ -5592,10 +5773,10 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -96,
-													"top": -48,
+													"top": 72,
 													"width": 210.2470703125,
 													"height": 13,
-													"text": "(from Brisanje lokacije parka za pse)"
+													"text": "(from Sistem)"
 												},
 												{
 													"_type": "LabelView",
@@ -5606,14 +5787,14 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -96,
-													"top": -48,
+													"top": 72,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 624,
-											"top": 584,
+											"top": 624,
 											"width": 113,
 											"height": 51,
 											"stereotypeLabel": {
@@ -5630,109 +5811,19 @@
 											}
 										}
 									],
+									"containerView": {
+										"$ref": "AAAAAAFvKdikYOoY/0A="
+									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 624,
-									"top": 584,
+									"top": 624,
 									"width": 113,
 									"height": 51,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvMxy1vNjMQ3o="
 									},
 									"wordWrap": true
-								},
-								{
-									"_type": "UMLObjectFlowView",
-									"_id": "AAAAAAFvMx18UNju9/I=",
-									"_parent": {
-										"$ref": "AAAAAAFvKdYKZuoGShM="
-									},
-									"model": {
-										"$ref": "AAAAAAFvMx18UNjs7ww="
-									},
-									"subViews": [
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFvMx18UNjvfUU=",
-											"_parent": {
-												"$ref": "AAAAAAFvMx18UNju9/I="
-											},
-											"model": {
-												"$ref": "AAAAAAFvMx18UNjs7ww="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": 669,
-											"top": 646,
-											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
-											"hostEdge": {
-												"$ref": "AAAAAAFvMx18UNju9/I="
-											},
-											"edgePosition": 1
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFvMx18UNjwbjM=",
-											"_parent": {
-												"$ref": "AAAAAAFvMx18UNju9/I="
-											},
-											"model": {
-												"$ref": "AAAAAAFvMx18UNjs7ww="
-											},
-											"visible": null,
-											"font": "Arial;13;0",
-											"left": 684,
-											"top": 646,
-											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 30,
-											"hostEdge": {
-												"$ref": "AAAAAAFvMx18UNju9/I="
-											},
-											"edgePosition": 1
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFvMx18Udjxqpw=",
-											"_parent": {
-												"$ref": "AAAAAAFvMx18UNju9/I="
-											},
-											"model": {
-												"$ref": "AAAAAAFvMx18UNjs7ww="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": 640,
-											"top": 647,
-											"height": 13,
-											"alpha": -1.5707963267948966,
-											"distance": 15,
-											"hostEdge": {
-												"$ref": "AAAAAAFvMx18UNju9/I="
-											},
-											"edgePosition": 1
-										}
-									],
-									"font": "Arial;13;0",
-									"head": {
-										"$ref": "AAAAAAFvLeb8mh39JPw="
-									},
-									"tail": {
-										"$ref": "AAAAAAFvMxy1u9jLWDE="
-									},
-									"points": "655:634;655:672",
-									"showVisibility": true,
-									"nameLabel": {
-										"$ref": "AAAAAAFvMx18UNjvfUU="
-									},
-									"stereotypeLabel": {
-										"$ref": "AAAAAAFvMx18UNjwbjM="
-									},
-									"propertyLabel": {
-										"$ref": "AAAAAAFvMx18Udjxqpw="
-									}
 								}
 							]
 						}
@@ -5755,49 +5846,8 @@
 							"name": "Odabir opcije za brisanje lokacije parka za pse"
 						},
 						{
-							"_type": "UMLDecisionNode",
-							"_id": "AAAAAAFvLeXkNh2jL30=",
-							"_parent": {
-								"$ref": "AAAAAAFvKdYKZeoFUnQ="
-							},
-							"name": "DecisionNode1"
-						},
-						{
-							"_type": "UMLAction",
-							"_id": "AAAAAAFvLeb8mh37b6I=",
-							"_parent": {
-								"$ref": "AAAAAAFvKdYKZeoFUnQ="
-							},
-							"name": "Prikaz liste lokacija parkova za pse"
-						},
-						{
-							"_type": "UMLMergeNode",
-							"_id": "AAAAAAFvLee6DB4sTMA=",
-							"_parent": {
-								"$ref": "AAAAAAFvKdYKZeoFUnQ="
-							},
-							"name": "MergeNode1"
-						},
-						{
-							"_type": "UMLAction",
-							"_id": "AAAAAAFvLeZBnx2uXCg=",
-							"_parent": {
-								"$ref": "AAAAAAFvKdYKZeoFUnQ="
-							},
-							"name": "Otkazivanje brisanja"
-						},
-						{
 							"_type": "UMLDataStoreNode",
 							"_id": "AAAAAAFvMxvNsdiCxYE=",
-							"_parent": {
-								"$ref": "AAAAAAFvKdYKZeoFUnQ="
-							},
-							"name": "Lokacije parkova za pse",
-							"ordering": "FIFO"
-						},
-						{
-							"_type": "UMLDataStoreNode",
-							"_id": "AAAAAAFvMxy1u9jJXVg=",
 							"_parent": {
 								"$ref": "AAAAAAFvKdYKZeoFUnQ="
 							},
@@ -5890,6 +5940,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvKdYKZeoFUnQ="
 							},
+							"name": "[otkaži brisanje]",
 							"source": {
 								"$ref": "AAAAAAFvLeXkNh2jL30="
 							},
@@ -5903,6 +5954,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvKdYKZeoFUnQ="
 							},
+							"name": "[obriši]",
 							"source": {
 								"$ref": "AAAAAAFvLeXkNh2jL30="
 							},
@@ -6018,6 +6070,22 @@
 										"$ref": "AAAAAAFvKdhOLOoM7RU="
 									},
 									"name": "Potvrda brisanja"
+								},
+								{
+									"_type": "UMLAction",
+									"_id": "AAAAAAFvLeZBnx2uXCg=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdhOLOoM7RU="
+									},
+									"name": "Otkazivanje brisanja"
+								},
+								{
+									"_type": "UMLDecisionNode",
+									"_id": "AAAAAAFvLeXkNh2jL30=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdhOLOoM7RU="
+									},
+									"name": "DecisionNode1"
 								}
 							]
 						},
@@ -6060,6 +6128,31 @@
 										"$ref": "AAAAAAFvKdikX+oWxS4="
 									},
 									"name": "ActivityFinalNode1"
+								},
+								{
+									"_type": "UMLAction",
+									"_id": "AAAAAAFvLeb8mh37b6I=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdikX+oWxS4="
+									},
+									"name": "Prikaz liste lokacija parkova za pse"
+								},
+								{
+									"_type": "UMLMergeNode",
+									"_id": "AAAAAAFvLee6DB4sTMA=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdikX+oWxS4="
+									},
+									"name": "MergeNode1"
+								},
+								{
+									"_type": "UMLDataStoreNode",
+									"_id": "AAAAAAFvMxy1u9jJXVg=",
+									"_parent": {
+										"$ref": "AAAAAAFvKdikX+oWxS4="
+									},
+									"name": "Lokacije parkova za pse",
+									"ordering": "FIFO"
 								}
 							]
 						}
@@ -6100,7 +6193,7 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": 36,
-											"width": 408,
+											"width": 345,
 											"height": 13,
 											"text": "Administrator",
 											"verticalAlignment": 3
@@ -6117,8 +6210,8 @@
 									"font": "Arial;13;0",
 									"left": 80,
 									"top": 32,
-									"width": 408,
-									"height": 753,
+									"width": 345,
+									"height": 777,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKeV7FOtgTC8="
 									}
@@ -6140,9 +6233,9 @@
 												"$ref": "AAAAAAFvKeWu8utorkk="
 											},
 											"font": "Arial;13;0",
-											"left": 488,
+											"left": 424,
 											"top": 36,
-											"width": 424,
+											"width": 345,
 											"height": 13,
 											"text": "Sistem",
 											"verticalAlignment": 3
@@ -6156,17 +6249,17 @@
 											"$ref": "AAAAAAFvKfdjB+x8+kQ="
 										},
 										{
-											"$ref": "AAAAAAFvKffxJuy+ArE="
+											"$ref": "AAAAAAFvNBar113rLhE="
 										},
 										{
-											"$ref": "AAAAAAFvNBar113rLhE="
+											"$ref": "AAAAAAFvLepydB7fk7o="
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 488,
+									"left": 424,
 									"top": 32,
-									"width": 424,
-									"height": 753,
+									"width": 345,
+									"height": 777,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKeWu8utprIM="
 									}
@@ -6215,7 +6308,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -208,
+													"left": -144,
+													"top": -64,
 													"height": 13
 												},
 												{
@@ -6225,11 +6319,12 @@
 														"$ref": "AAAAAAFvKeYuXOt535g="
 													},
 													"font": "Arial;13;1",
-													"left": 133,
-													"top": 183,
-													"width": 285.38427734375,
-													"height": 13,
-													"text": "Odabir opcije za izmjenu lokacije parka za pse"
+													"left": 165,
+													"top": 151,
+													"width": 207,
+													"height": 26,
+													"text": "Odabir opcije za izmjenu lokacije parka za pse",
+													"wordWrap": true
 												},
 												{
 													"_type": "LabelView",
@@ -6239,7 +6334,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -208,
+													"left": -144,
+													"top": -64,
 													"width": 208.7998046875,
 													"height": 13,
 													"text": "(from Izmjena lokacije parka za pse)"
@@ -6252,16 +6348,17 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -208,
-													"height": 13,
-													"horizontalAlignment": 1
+													"left": -144,
+													"top": -64,
+													"horizontalAlignment": 1,
+													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 128,
-											"top": 176,
-											"width": 295.38427734375,
-											"height": 25,
+											"left": 160,
+											"top": 144,
+											"width": 217,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvKeYuXet6F6U="
 											},
@@ -6278,13 +6375,14 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 128,
-									"top": 176,
-									"width": 295.38427734375,
-									"height": 41,
+									"left": 160,
+									"top": 144,
+									"width": 217,
+									"height": 54,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKeYuXOt535g="
-									}
+									},
+									"wordWrap": true
 								},
 								{
 									"_type": "UMLControlFlowView",
@@ -6308,7 +6406,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 287,
-											"top": 142,
+											"top": 126,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -6329,7 +6427,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 302,
-											"top": 142,
+											"top": 126,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -6350,7 +6448,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 258,
-											"top": 143,
+											"top": 127,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -6367,7 +6465,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKeYWHetzRQk="
 									},
-									"points": "273:123;273:176",
+									"points": "273:123;273:144",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKebt6OuUuQM="
@@ -6400,8 +6498,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 495,
-											"top": 175,
+											"left": 435,
+											"top": 195,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -6421,8 +6519,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 495,
-											"top": 160,
+											"left": 435,
+											"top": 180,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -6442,8 +6540,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 495,
-											"top": 205,
+											"left": 435,
+											"top": 225,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -6460,8 +6558,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKeYuXOt4uiY="
 									},
-									"lineStyle": 1,
-									"points": "423:196;567:196",
+									"points": "270:197;270:216;600:216;600:248",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKfJ0Heu/K2k="
@@ -6501,8 +6598,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1392,
-													"top": -330,
+													"left": 1232,
+													"top": -186,
 													"height": 13
 												},
 												{
@@ -6512,11 +6609,12 @@
 														"$ref": "AAAAAAFvKfJzsOunAo8="
 													},
 													"font": "Arial;13;1",
-													"left": 573,
-													"top": 183,
-													"width": 280.34423828125,
-													"height": 13,
-													"text": "Prikaz forme za izmjenu lokacije parka za pse"
+													"left": 493,
+													"top": 255,
+													"width": 215,
+													"height": 26,
+													"text": "Prikaz forme za izmjenu lokacije parka za pse",
+													"wordWrap": true
 												},
 												{
 													"_type": "LabelView",
@@ -6526,8 +6624,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1392,
-													"top": -330,
+													"left": 1232,
+													"top": -186,
 													"width": 208.7998046875,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -6540,17 +6638,17 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1392,
-													"top": -330,
-													"height": 13,
-													"horizontalAlignment": 1
+													"left": 1232,
+													"top": -186,
+													"horizontalAlignment": 1,
+													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 568,
-											"top": 176,
-											"width": 290.34423828125,
-											"height": 25,
+											"left": 488,
+											"top": 248,
+											"width": 225,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvKfJzsOuoyzw="
 											},
@@ -6570,13 +6668,14 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 568,
-									"top": 176,
-									"width": 290.34423828125,
-									"height": 41,
+									"left": 488,
+									"top": 248,
+									"width": 225,
+									"height": 54,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKfJzsOunAo8="
-									}
+									},
+									"wordWrap": true
 								},
 								{
 									"_type": "UMLActionView",
@@ -6606,8 +6705,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -968,
-													"top": 158,
+													"left": -1144,
+													"top": 142,
 													"height": 13
 												},
 												{
@@ -6617,11 +6716,12 @@
 														"$ref": "AAAAAAFvKfS6RuwbEsY="
 													},
 													"font": "Arial;13;1",
-													"left": 253,
-													"top": 367,
-													"width": 124.2490234375,
-													"height": 13,
-													"text": "Popunjavanje forme"
+													"left": 165,
+													"top": 359,
+													"width": 207,
+													"height": 26,
+													"text": "Popunjavanje forme za izmjenu lokacije parka za pse",
+													"wordWrap": true
 												},
 												{
 													"_type": "LabelView",
@@ -6631,8 +6731,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -968,
-													"top": 158,
+													"left": -1144,
+													"top": 142,
 													"width": 208.7998046875,
 													"height": 13,
 													"text": "(from Administrator)"
@@ -6645,17 +6745,17 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -968,
-													"top": 158,
-													"height": 13,
-													"horizontalAlignment": 1
+													"left": -1144,
+													"top": 142,
+													"horizontalAlignment": 1,
+													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 248,
-											"top": 360,
-											"width": 134.2490234375,
-											"height": 25,
+											"left": 160,
+											"top": 352,
+											"width": 217,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvKfS6RuwcPUs="
 											},
@@ -6675,13 +6775,14 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 248,
-									"top": 360,
-									"width": 134.2490234375,
-									"height": 41,
+									"left": 160,
+									"top": 352,
+									"width": 217,
+									"height": 54,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKfS6RuwbEsY="
-									}
+									},
+									"wordWrap": true
 								},
 								{
 									"_type": "UMLActionView",
@@ -6711,8 +6812,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 152,
-													"top": 206,
+													"left": 56,
+													"top": 126,
 													"height": 13
 												},
 												{
@@ -6722,8 +6823,8 @@
 														"$ref": "AAAAAAFvKfXSduxMckc="
 													},
 													"font": "Arial;13;1",
-													"left": 269,
-													"top": 487,
+													"left": 221,
+													"top": 447,
 													"width": 99.6962890625,
 													"height": 13,
 													"text": "Potvrda izmjene"
@@ -6736,8 +6837,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 152,
-													"top": 206,
+													"left": 56,
+													"top": 126,
 													"width": 208.7998046875,
 													"height": 13,
 													"text": "(from Administrator)"
@@ -6750,15 +6851,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 152,
-													"top": 206,
+													"left": 56,
+													"top": 126,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 264,
-											"top": 480,
+											"left": 216,
+											"top": 440,
 											"width": 109.6962890625,
 											"height": 25,
 											"stereotypeLabel": {
@@ -6780,8 +6881,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 264,
-									"top": 480,
+									"left": 216,
+									"top": 440,
 									"width": 109.6962890625,
 									"height": 41,
 									"nameCompartment": {
@@ -6809,8 +6910,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 510,
-											"top": 479,
+											"left": 444,
+											"top": 475,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -6830,8 +6931,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 510,
-											"top": 464,
+											"left": 444,
+											"top": 460,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -6851,8 +6952,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 510,
-											"top": 509,
+											"left": 444,
+											"top": 505,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -6869,8 +6970,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKfXSduxLAj4="
 									},
-									"lineStyle": 1,
-									"points": "374:500;647:500",
+									"points": "272:480;272:496;616:496;616:520",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvKfdjgeyVhH0="
@@ -6910,8 +7010,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1344,
-													"top": -306,
+													"left": 1168,
+													"top": -226,
 													"height": 13
 												},
 												{
@@ -6921,8 +7021,8 @@
 														"$ref": "AAAAAAFvKfdjB+x9Yaw="
 													},
 													"font": "Arial;13;1",
-													"left": 653,
-													"top": 487,
+													"left": 565,
+													"top": 527,
 													"width": 101.8671875,
 													"height": 13,
 													"text": "Čuvanje izmjene"
@@ -6935,8 +7035,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1344,
-													"top": -306,
+													"left": 1168,
+													"top": -226,
 													"width": 208.7998046875,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -6949,15 +7049,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1344,
-													"top": -306,
+													"left": 1168,
+													"top": -226,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 648,
-											"top": 480,
+											"left": 560,
+											"top": 520,
 											"width": 111.8671875,
 											"height": 25,
 											"stereotypeLabel": {
@@ -6979,130 +7079,12 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 648,
-									"top": 480,
+									"left": 560,
+									"top": 520,
 									"width": 111.8671875,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvKfdjB+x9Yaw="
-									}
-								},
-								{
-									"_type": "UMLControlNodeView",
-									"_id": "AAAAAAFvKffxJuy+ArE=",
-									"_parent": {
-										"$ref": "AAAAAAFvKd3rpOtXHFk="
-									},
-									"model": {
-										"$ref": "AAAAAAFvKffxJuy8VWM="
-									},
-									"containerView": {
-										"$ref": "AAAAAAFvKeWu8utorkk="
-									},
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 696,
-									"top": 744,
-									"width": 26,
-									"height": 26
-								},
-								{
-									"_type": "UMLActionView",
-									"_id": "AAAAAAFvLepydB7fk7o=",
-									"_parent": {
-										"$ref": "AAAAAAFvKd3rpOtXHFk="
-									},
-									"model": {
-										"$ref": "AAAAAAFvLepycx7dZZA="
-									},
-									"subViews": [
-										{
-											"_type": "UMLNameCompartmentView",
-											"_id": "AAAAAAFvLepydB7gWMQ=",
-											"_parent": {
-												"$ref": "AAAAAAFvLepydB7fk7o="
-											},
-											"model": {
-												"$ref": "AAAAAAFvLepycx7dZZA="
-											},
-											"subViews": [
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLepydB7hmgE=",
-													"_parent": {
-														"$ref": "AAAAAAFvLepydB7gWMQ="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"top": -32,
-													"height": 13
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLepydB7i4Ro=",
-													"_parent": {
-														"$ref": "AAAAAAFvLepydB7gWMQ="
-													},
-													"font": "Arial;13;1",
-													"left": 597,
-													"top": 671,
-													"width": 232.6796875,
-													"height": 13,
-													"text": "Prikaz ažurirane lokacije parka za pse"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLepydB7jNuw=",
-													"_parent": {
-														"$ref": "AAAAAAFvLepydB7gWMQ="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"top": -32,
-													"width": 208.7998046875,
-													"height": 13,
-													"text": "(from Izmjena lokacije parka za pse)"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAFvLepydB7kWLU=",
-													"_parent": {
-														"$ref": "AAAAAAFvLepydB7gWMQ="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"top": -32,
-													"height": 13,
-													"horizontalAlignment": 1
-												}
-											],
-											"font": "Arial;13;0",
-											"left": 592,
-											"top": 664,
-											"width": 242.6796875,
-											"height": 25,
-											"stereotypeLabel": {
-												"$ref": "AAAAAAFvLepydB7hmgE="
-											},
-											"nameLabel": {
-												"$ref": "AAAAAAFvLepydB7i4Ro="
-											},
-											"namespaceLabel": {
-												"$ref": "AAAAAAFvLepydB7jNuw="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAFvLepydB7kWLU="
-											}
-										}
-									],
-									"font": "Arial;13;0",
-									"containerChangeable": true,
-									"left": 592,
-									"top": 664,
-									"width": 242.6796875,
-									"height": 41,
-									"nameCompartment": {
-										"$ref": "AAAAAAFvLepydB7gWMQ="
 									}
 								},
 								{
@@ -7126,8 +7108,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 718,
-											"top": 717,
+											"left": 630,
+											"top": 739,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -7147,8 +7129,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 733,
-											"top": 717,
+											"left": 645,
+											"top": 739,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7168,8 +7150,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 689,
-											"top": 718,
+											"left": 601,
+											"top": 740,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7186,7 +7168,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLepydB7fk7o="
 									},
-									"points": "704:704;704:744",
+									"points": "616:733;616:760",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLerHEh76lLo="
@@ -7219,8 +7201,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 329,
-											"top": 433,
+											"left": 286,
+											"top": 415,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -7240,8 +7222,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 344,
-											"top": 433,
+											"left": 301,
+											"top": 415,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7261,8 +7243,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 300,
-											"top": 434,
+											"left": 257,
+											"top": 416,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7279,7 +7261,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKfS6Ruwa8VQ="
 									},
-									"points": "315:400;315:480",
+									"points": "272:405;272:440",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLmw3n+tz1dA="
@@ -7312,8 +7294,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 519,
-											"top": 329,
+											"left": 435,
+											"top": 337,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -7333,8 +7315,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 519,
-											"top": 344,
+											"left": 435,
+											"top": 352,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7354,8 +7336,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 520,
-											"top": 299,
+											"left": 436,
+											"top": 307,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7372,7 +7354,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKfJzsOumAlE="
 									},
-									"points": "728:216;728:320;312:320;312:360",
+									"points": "600:301;600:328;272:328;272:352",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvMx4WDtls+PA="
@@ -7412,7 +7394,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -464,
+													"left": -640,
+													"top": 48,
 													"height": 13
 												},
 												{
@@ -7422,8 +7405,8 @@
 														"$ref": "AAAAAAFvNBar113smCs="
 													},
 													"font": "Arial;13;1",
-													"left": 645,
-													"top": 575,
+													"left": 557,
+													"top": 599,
 													"width": 131.75341796875,
 													"height": 26,
 													"text": "Lokacije parka za pse [ažurirana]",
@@ -7437,7 +7420,8 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -464,
+													"left": -640,
+													"top": 48,
 													"width": 208.7998046875,
 													"height": 13,
 													"text": "(from Sistem)"
@@ -7450,14 +7434,15 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -464,
+													"left": -640,
+													"top": 48,
 													"horizontalAlignment": 1,
 													"wordWrap": true
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 640,
-											"top": 568,
+											"left": 552,
+											"top": 592,
 											"width": 141.75341796875,
 											"height": 38,
 											"stereotypeLabel": {
@@ -7479,8 +7464,8 @@
 									},
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 640,
-									"top": 568,
+									"left": 552,
+									"top": 592,
 									"width": 141.75341796875,
 									"height": 38,
 									"nameCompartment": {
@@ -7509,8 +7494,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 718,
-											"top": 627,
+											"left": 630,
+											"top": 647,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -7530,8 +7515,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 733,
-											"top": 627,
+											"left": 645,
+											"top": 647,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7551,8 +7536,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 689,
-											"top": 628,
+											"left": 601,
+											"top": 648,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7569,7 +7554,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvNBar113rLhE="
 									},
-									"points": "704:605;704:664",
+									"points": "616:629;616:680",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvNBdsB14Jw6A="
@@ -7602,8 +7587,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 719,
-											"top": 537,
+											"left": 630,
+											"top": 569,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -7623,8 +7608,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 734,
-											"top": 537,
+											"left": 645,
+											"top": 569,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7644,8 +7629,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 690,
-											"top": 538,
+											"left": 601,
+											"top": 570,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7662,7 +7647,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvKfdjB+x8+kQ="
 									},
-									"points": "705:520;705:568",
+									"points": "616:560;616:592",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvNChRzcthPmA="
@@ -7673,6 +7658,129 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAFvNChRzctjbEo="
 									}
+								},
+								{
+									"_type": "UMLControlNodeView",
+									"_id": "AAAAAAFvKffxJuy+ArE=",
+									"_parent": {
+										"$ref": "AAAAAAFvKd3rpOtXHFk="
+									},
+									"model": {
+										"$ref": "AAAAAAFvKffxJuy8VWM="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 600,
+									"top": 760,
+									"width": 34,
+									"height": 33
+								},
+								{
+									"_type": "UMLActionView",
+									"_id": "AAAAAAFvLepydB7fk7o=",
+									"_parent": {
+										"$ref": "AAAAAAFvKd3rpOtXHFk="
+									},
+									"model": {
+										"$ref": "AAAAAAFvLepycx7dZZA="
+									},
+									"subViews": [
+										{
+											"_type": "UMLNameCompartmentView",
+											"_id": "AAAAAAFvLepydB7gWMQ=",
+											"_parent": {
+												"$ref": "AAAAAAFvLepydB7fk7o="
+											},
+											"model": {
+												"$ref": "AAAAAAFvLepycx7dZZA="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLepydB7hmgE=",
+													"_parent": {
+														"$ref": "AAAAAAFvLepydB7gWMQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -136,
+													"top": 64,
+													"height": 13
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLepydB7i4Ro=",
+													"_parent": {
+														"$ref": "AAAAAAFvLepydB7gWMQ="
+													},
+													"font": "Arial;13;1",
+													"left": 557,
+													"top": 687,
+													"width": 135,
+													"height": 26,
+													"text": "Prikaz ažurirane lokacije parka za pse",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLepydB7jNuw=",
+													"_parent": {
+														"$ref": "AAAAAAFvLepydB7gWMQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -136,
+													"top": 64,
+													"width": 208.7998046875,
+													"height": 13,
+													"text": "(from Sistem)"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAFvLepydB7kWLU=",
+													"_parent": {
+														"$ref": "AAAAAAFvLepydB7gWMQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -136,
+													"top": 64,
+													"horizontalAlignment": 1,
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 552,
+											"top": 680,
+											"width": 145,
+											"height": 38,
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFvLepydB7hmgE="
+											},
+											"nameLabel": {
+												"$ref": "AAAAAAFvLepydB7i4Ro="
+											},
+											"namespaceLabel": {
+												"$ref": "AAAAAAFvLepydB7jNuw="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFvLepydB7kWLU="
+											}
+										}
+									],
+									"containerView": {
+										"$ref": "AAAAAAFvKeWu8utorkk="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 552,
+									"top": 680,
+									"width": 145,
+									"height": 54,
+									"nameCompartment": {
+										"$ref": "AAAAAAFvLepydB7gWMQ="
+									},
+									"wordWrap": true
 								}
 							]
 						}
@@ -7720,14 +7828,6 @@
 							"name": "Odustajanje od popunjavanja forme"
 						},
 						{
-							"_type": "UMLAction",
-							"_id": "AAAAAAFvLepycx7dZZA=",
-							"_parent": {
-								"$ref": "AAAAAAFvKd3rpOtWZ4Y="
-							},
-							"name": "Prikaz ažurirane lokacije parka za pse"
-						},
-						{
 							"_type": "UMLMergeNode",
 							"_id": "AAAAAAFvLercBR8JtGM=",
 							"_parent": {
@@ -7751,6 +7851,14 @@
 							},
 							"name": "Lokacije parkova za pse",
 							"ordering": "FIFO"
+						},
+						{
+							"_type": "UMLActivityFinalNode",
+							"_id": "AAAAAAFvKffxJuy8VWM=",
+							"_parent": {
+								"$ref": "AAAAAAFvKd3rpOtWZ4Y="
+							},
+							"name": "ActivityFinalNode1"
 						}
 					],
 					"edges": [
@@ -8082,7 +8190,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvKeV7FOtdfzg="
 									},
-									"name": "Popunjavanje forme"
+									"name": "Popunjavanje forme za izmjenu lokacije parka za pse"
 								},
 								{
 									"_type": "UMLAction",
@@ -8128,14 +8236,6 @@
 									"name": "Čuvanje izmjene"
 								},
 								{
-									"_type": "UMLActivityFinalNode",
-									"_id": "AAAAAAFvKffxJuy8VWM=",
-									"_parent": {
-										"$ref": "AAAAAAFvKeWu8utmF8U="
-									},
-									"name": "ActivityFinalNode1"
-								},
-								{
 									"_type": "UMLObjectNode",
 									"_id": "AAAAAAFvNBar113p4Xo=",
 									"_parent": {
@@ -8143,6 +8243,14 @@
 									},
 									"name": "Lokacije parka za pse [ažurirana]",
 									"ordering": "FIFO"
+								},
+								{
+									"_type": "UMLAction",
+									"_id": "AAAAAAFvLepycx7dZZA=",
+									"_parent": {
+										"$ref": "AAAAAAFvKeWu8utmF8U="
+									},
+									"name": "Prikaz ažurirane lokacije parka za pse"
 								}
 							]
 						}
