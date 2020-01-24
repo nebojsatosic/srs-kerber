@@ -4846,6 +4846,7 @@
 											"model": {
 												"$ref": "AAAAAAFvMcm1dLkkn1Q="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
 											"left": 558,
 											"top": 896,
@@ -4856,8 +4857,7 @@
 											"hostEdge": {
 												"$ref": "AAAAAAFvMcm1drkmkrY="
 											},
-											"edgePosition": 1,
-											"text": " {weight=1}"
+											"edgePosition": 1
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -5593,8 +5593,7 @@
 							},
 							"target": {
 								"$ref": "AAAAAAFvMcQGPrj2+Lc="
-							},
-							"weight": "1"
+							}
 						},
 						{
 							"_type": "UMLControlFlow",
