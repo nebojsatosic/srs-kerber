@@ -34,7 +34,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "ActivityDiagram1",
+							"name": "PregledNaloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -844,7 +844,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "ActivityDiagram2",
+							"name": "DeaktiviranjeNaloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -1303,7 +1303,7 @@
 													"top": 271,
 													"width": 167,
 													"height": 39,
-													"text": "Provera da li korisnik stvarno želi deaktivirati nalog",
+													"text": "Provjera da li korisnik stvarno želi deaktivirati nalog",
 													"wordWrap": true
 												},
 												{
@@ -1912,7 +1912,7 @@
 													"top": 487,
 													"width": 127,
 													"height": 52,
-													"text": "Prikaz obaveštenja o otkazivanju postpuka za deaktiviranje naloga",
+													"text": "Prikaz obavještenja o otkazivanju postpuka za deaktiviranje naloga",
 													"wordWrap": true
 												},
 												{
@@ -2404,7 +2404,7 @@
 													"top": 687,
 													"width": 127,
 													"height": 39,
-													"text": "Prikaz obaveštenja o uspešnom deaktiviranju naloga",
+													"text": "Prikaz obavještenja o uspješnom deaktiviranju naloga",
 													"wordWrap": true
 												},
 												{
@@ -3006,7 +3006,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "ActivityDiagram3",
+							"name": "AzuriranjeNaloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -3650,7 +3650,7 @@
 													"top": 311,
 													"width": 135,
 													"height": 26,
-													"text": "Odabir informacije koju treba izmeniti",
+													"text": "Odabir informacije koju treba izmijeniti",
 													"wordWrap": true
 												},
 												{
@@ -3850,7 +3850,7 @@
 													"top": 407,
 													"width": 143.76806640625,
 													"height": 26,
-													"text": "Prikaz forme za izmenu",
+													"text": "Prikaz forme za izmjenu",
 													"wordWrap": true
 												},
 												{
@@ -4050,7 +4050,7 @@
 													"top": 495,
 													"width": 135,
 													"height": 26,
-													"text": "Popunjavanje forme za izmenu",
+													"text": "Popunjavanje forme za izmjenu",
 													"wordWrap": true
 												},
 												{
@@ -4250,7 +4250,7 @@
 													"top": 591,
 													"width": 143,
 													"height": 39,
-													"text": "Provera da li korisnik stvarno želi izvršiti izmenu",
+													"text": "Provjera da li korisnik stvarno želi izvršiti izmjenu",
 													"wordWrap": true
 												},
 												{
@@ -4469,7 +4469,7 @@
 													"top": 703,
 													"width": 135,
 													"height": 13,
-													"text": "Potvrda o izmeni"
+													"text": "Potvrda o izmjeni"
 												},
 												{
 													"_type": "LabelView",
@@ -4654,7 +4654,7 @@
 												"$ref": "AAAAAAFvLmpuOzTlDXQ="
 											},
 											"edgePosition": 1,
-											"text": " [Korisnik želi izmeniti nalog]",
+											"text": " [Korisnik želi izmijeniti nalog]",
 											"wordWrap": true
 										},
 										{
@@ -4749,7 +4749,7 @@
 												"$ref": "AAAAAAFvLmpvLDUPaHA="
 											},
 											"edgePosition": 1,
-											"text": " [Korisnik ne želi izmeniti nalog]",
+											"text": " [Korisnik ne želi izmijeniti nalog]",
 											"wordWrap": true
 										},
 										{
@@ -5007,7 +5007,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLmpusjT3lyE="
 									},
-									"points": "752:914;752:1104;664:1104",
+									"points": "752:927;752:1104;664:1104",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLm26PjV2lBc="
@@ -5156,7 +5156,7 @@
 													"top": 855,
 													"width": 111,
 													"height": 13,
-													"text": "Izmena naloga"
+													"text": "Izmjena naloga"
 												},
 												{
 													"_type": "LabelView",
@@ -5257,8 +5257,8 @@
 													"left": 693,
 													"top": 855,
 													"width": 119,
-													"height": 39,
-													"text": "Prikaz obaveštenja o otkazivanju izmene naloga",
+													"height": 52,
+													"text": "Prikaz obavještenja o otkazivanju izmjene naloga",
 													"wordWrap": true
 												},
 												{
@@ -5293,7 +5293,7 @@
 											"left": 688,
 											"top": 848,
 											"width": 129,
-											"height": 51,
+											"height": 64,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLmpusjT5R7s="
 											},
@@ -5316,7 +5316,7 @@
 									"left": 688,
 									"top": 848,
 									"width": 129,
-									"height": 67,
+									"height": 80,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvLmpusjT480A="
 									},
@@ -5401,9 +5401,9 @@
 													"font": "Arial;13;1",
 													"left": 469,
 													"top": 919,
-													"width": 64.28271484375,
+													"width": 67.89453125,
 													"height": 39,
-													"text": "Korisnički nalog [izmenjen]",
+													"text": "Korisnički nalog [izmjenjen]",
 													"wordWrap": true
 												},
 												{
@@ -5437,7 +5437,7 @@
 											"font": "Arial;13;0",
 											"left": 464,
 											"top": 912,
-											"width": 74.28271484375,
+											"width": 77.89453125,
 											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvL2w0EJPx004="
@@ -5460,7 +5460,7 @@
 									"containerChangeable": true,
 									"left": 464,
 									"top": 912,
-									"width": 74.28271484375,
+									"width": 77.89453125,
 									"height": 51,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvL2w0EJPwLlY="
@@ -5801,7 +5801,7 @@
 													"top": 1007,
 													"width": 111,
 													"height": 52,
-													"text": "Prikaz obaveštenja o uspešnoj izmeni naloga",
+													"text": "Prikaz obavještenja o uspješnoj izmjeni naloga",
 													"wordWrap": true
 												},
 												{
@@ -5966,7 +5966,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "ActivityDiagram4",
+							"name": "PregledKorisnickihNaloga",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -6773,7 +6773,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "ActivityDiagram5",
+							"name": "SuspenzijaKorisnika",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -7563,8 +7563,8 @@
 													"left": 461,
 													"top": 1367,
 													"width": 175,
-													"height": 26,
-													"text": "Provera da li korisnik zaista treba biti suspendovan",
+													"height": 39,
+													"text": "Provjera da li korisnik zaista treba biti suspendovan",
 													"wordWrap": true
 												},
 												{
@@ -7599,7 +7599,7 @@
 											"left": 456,
 											"top": 1360,
 											"width": 185,
-											"height": 38,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLn8LlDgZTc8="
 											},
@@ -7622,7 +7622,7 @@
 									"left": 456,
 									"top": 1360,
 									"width": 185,
-									"height": 54,
+									"height": 67,
 									"nameCompartment": {
 										"$ref": "AAAAAAFvLn8LlDgYbVw="
 									},
@@ -7649,8 +7649,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 406,
-											"top": 1433,
+											"left": 278,
+											"top": 1378,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -7670,8 +7670,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 406,
-											"top": 1448,
+											"left": 293,
+											"top": 1378,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -7691,8 +7691,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 407,
-											"top": 1403,
+											"left": 249,
+											"top": 1379,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -7709,7 +7709,7 @@
 									"tail": {
 										"$ref": "AAAAAAFvLn8LlDgXL0I="
 									},
-									"points": "551:1413;551:1424;264:1424;264:1440",
+									"points": "456:1385;264:1385;264:1440",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFvLn9b8jhfd1A="
@@ -8649,7 +8649,7 @@
 													"top": 1623,
 													"width": 111,
 													"height": 65,
-													"text": "Prikaz obaveštenja o otkazivanju suspenzije korisnika",
+													"text": "Prikaz obavještenja o otkazivanju suspenzije korisnika",
 													"wordWrap": true
 												},
 												{
@@ -9195,7 +9195,7 @@
 													"top": 1855,
 													"width": 135,
 													"height": 39,
-													"text": "Prikaz obaveštenja o uspešnoj suspenziji korisnika",
+													"text": "Prikaz obavještenja o uspješnoj suspenziji korisnika",
 													"wordWrap": true
 												},
 												{
@@ -10761,7 +10761,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "ActivityDiagram6",
+							"name": "BrisanjeNepozeljnogKomentara",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -11214,7 +11214,7 @@
 													"top": 279,
 													"width": 175,
 													"height": 26,
-													"text": "Provera da li komentar treba biti izbrisan",
+													"text": "Provjera da li komentar treba biti izbrisan",
 													"wordWrap": true
 												},
 												{
@@ -11821,7 +11821,7 @@
 													"top": 503,
 													"width": 135,
 													"height": 39,
-													"text": "Prikaz obaveštenja o otkazivanju brisanja komentara",
+													"text": "Prikaz obavještenja o otkazivanju brisanja komentara",
 													"wordWrap": true
 												},
 												{
@@ -11927,7 +11927,7 @@
 													"left": 405,
 													"top": 495,
 													"width": 119,
-													"height": 26,
+													"height": 39,
 													"text": "Brisanje nepoželjnog komentara",
 													"wordWrap": true
 												},
@@ -11963,7 +11963,7 @@
 											"left": 400,
 											"top": 488,
 											"width": 129,
-											"height": 38,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFvLpju8TpqrWI="
 											},
@@ -12330,7 +12330,7 @@
 													"top": 735,
 													"width": 151,
 													"height": 39,
-													"text": "Prikaz obaveštenja o uspešnom brisanju nepoželjnog komentara",
+													"text": "Prikaz obavještenja o uspješnom brisanju nepoželjnog komentara",
 													"wordWrap": true
 												},
 												{
@@ -12947,7 +12947,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFvLiEgODCX0IU="
 							},
-							"name": "Izmena naloga"
+							"name": "Izmjena naloga"
 						},
 						{
 							"_type": "UMLInitialNode",
@@ -13340,7 +13340,7 @@
 							"target": {
 								"$ref": "AAAAAAFvLmptoTTL8Nw="
 							},
-							"guard": "Korisnik želi izmeniti nalog"
+							"guard": "Korisnik želi izmijeniti nalog"
 						},
 						{
 							"_type": "UMLControlFlow",
@@ -13354,7 +13354,7 @@
 							"target": {
 								"$ref": "AAAAAAFvLmpusjT1fvo="
 							},
-							"guard": "Korisnik ne želi izmeniti nalog"
+							"guard": "Korisnik ne želi izmijeniti nalog"
 						},
 						{
 							"_type": "UMLControlFlow",
@@ -14135,7 +14135,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLimF5TFLJV8="
 									},
-									"name": "Provera da li korisnik stvarno želi deaktivirati nalog"
+									"name": "Provjera da li korisnik stvarno želi deaktivirati nalog"
 								},
 								{
 									"_type": "UMLDecisionNode",
@@ -14151,7 +14151,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLimF5TFLJV8="
 									},
-									"name": "Prikaz obaveštenja o otkazivanju postpuka za deaktiviranje naloga"
+									"name": "Prikaz obavještenja o otkazivanju postpuka za deaktiviranje naloga"
 								},
 								{
 									"_type": "UMLAction",
@@ -14167,7 +14167,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLimF5TFLJV8="
 									},
-									"name": "Prikaz obaveštenja o uspešnom deaktiviranju naloga"
+									"name": "Prikaz obavještenja o uspješnom deaktiviranju naloga"
 								},
 								{
 									"_type": "UMLObjectNode",
@@ -14219,7 +14219,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmGl9TNDB9w="
 									},
-									"name": "Odabir informacije koju treba izmeniti"
+									"name": "Odabir informacije koju treba izmijeniti"
 								},
 								{
 									"_type": "UMLAction",
@@ -14227,7 +14227,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmGl9TNDB9w="
 									},
-									"name": "Popunjavanje forme za izmenu"
+									"name": "Popunjavanje forme za izmjenu"
 								},
 								{
 									"_type": "UMLInitialNode",
@@ -14243,7 +14243,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmGl9TNDB9w="
 									},
-									"name": "Potvrda o izmeni"
+									"name": "Potvrda o izmjeni"
 								}
 							]
 						},
@@ -14269,7 +14269,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmHAaDNLh48="
 									},
-									"name": "Prikaz forme za izmenu"
+									"name": "Prikaz forme za izmjenu"
 								},
 								{
 									"_type": "UMLAction",
@@ -14277,7 +14277,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmHAaDNLh48="
 									},
-									"name": "Provera da li korisnik stvarno želi izvršiti izmenu"
+									"name": "Provjera da li korisnik stvarno želi izvršiti izmjenu"
 								},
 								{
 									"_type": "UMLDecisionNode",
@@ -14293,7 +14293,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmHAaDNLh48="
 									},
-									"name": "Prikaz obaveštenja o otkazivanju izmene naloga"
+									"name": "Prikaz obavještenja o otkazivanju izmjene naloga"
 								},
 								{
 									"_type": "UMLMergeNode",
@@ -14317,7 +14317,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmHAaDNLh48="
 									},
-									"name": "Korisnički nalog [izmenjen]",
+									"name": "Korisnički nalog [izmjenjen]",
 									"ordering": "FIFO"
 								},
 								{
@@ -14326,7 +14326,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLmHAaDNLh48="
 									},
-									"name": "Prikaz obaveštenja o uspešnoj izmeni naloga"
+									"name": "Prikaz obavještenja o uspješnoj izmjeni naloga"
 								}
 							]
 						},
@@ -14444,7 +14444,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLnyieza/23A="
 									},
-									"name": "Provera da li korisnik zaista treba biti suspendovan"
+									"name": "Provjera da li korisnik zaista treba biti suspendovan"
 								},
 								{
 									"_type": "UMLDecisionNode",
@@ -14460,7 +14460,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLnyieza/23A="
 									},
-									"name": "Prikaz obaveštenja o otkazivanju suspenzije korisnika"
+									"name": "Prikaz obavještenja o otkazivanju suspenzije korisnika"
 								},
 								{
 									"_type": "UMLMergeNode",
@@ -14502,7 +14502,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLnyieza/23A="
 									},
-									"name": "Prikaz obaveštenja o uspešnoj suspenziji korisnika"
+									"name": "Prikaz obavještenja o uspješnoj suspenziji korisnika"
 								},
 								{
 									"_type": "UMLAction",
@@ -14579,7 +14579,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLpYppjmi5T4="
 									},
-									"name": "Provera da li komentar treba biti izbrisan"
+									"name": "Provjera da li komentar treba biti izbrisan"
 								},
 								{
 									"_type": "UMLDecisionNode",
@@ -14595,7 +14595,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLpYppjmi5T4="
 									},
-									"name": "Prikaz obaveštenja o otkazivanju brisanja komentara"
+									"name": "Prikaz obavještenja o otkazivanju brisanja komentara"
 								},
 								{
 									"_type": "UMLAction",
@@ -14611,7 +14611,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFvLpYppjmi5T4="
 									},
-									"name": "Prikaz obaveštenja o uspešnom brisanju nepoželjnog komentara"
+									"name": "Prikaz obavještenja o uspješnom brisanju nepoželjnog komentara"
 								},
 								{
 									"_type": "UMLActivityFinalNode",
