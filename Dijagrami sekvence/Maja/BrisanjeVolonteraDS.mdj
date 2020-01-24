@@ -159,7 +159,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 5,
-											"top": 50,
+											"top": 20,
 											"width": 136.2080078125,
 											"height": 13,
 											"text": "+prikaziListuVolontera()",
@@ -169,7 +169,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"width": 146.2080078125,
-									"height": 68
+									"height": 38
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -541,23 +541,6 @@
 										},
 										{
 											"_type": "UMLOperationView",
-											"_id": "AAAAAAFvV01+PqgCbak=",
-											"_parent": {
-												"$ref": "AAAAAAFvVB+ggTf0ybk="
-											},
-											"model": {
-												"$ref": "AAAAAAFvVDwnrjty+wE="
-											},
-											"font": "Arial;13;0",
-											"left": 5,
-											"top": 35,
-											"width": 168.7080078125,
-											"height": 13,
-											"text": "+azurirajBazu()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
 											"_id": "AAAAAAFvV01+P6gFXIc=",
 											"_parent": {
 												"$ref": "AAAAAAFvVB+ggTf0ybk="
@@ -923,14 +906,6 @@
 								"$ref": "AAAAAAFvVB+ggDfslwg="
 							},
 							"name": "traziKorisnickiNalog"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAFvVDwnrjty+wE=",
-							"_parent": {
-								"$ref": "AAAAAAFvVB+ggDfslwg="
-							},
-							"name": "azurirajBazu"
 						},
 						{
 							"_type": "UMLOperation",

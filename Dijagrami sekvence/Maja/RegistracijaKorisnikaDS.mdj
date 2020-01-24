@@ -143,7 +143,7 @@
 									"left": -152,
 									"top": -40,
 									"width": 95.61083984375,
-									"height": 38
+									"height": 10
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -706,31 +706,12 @@
 									"model": {
 										"$ref": "AAAAAAFvSdIbbma05so="
 									},
-									"subViews": [
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAFvSf+jZmnlvAI=",
-											"_parent": {
-												"$ref": "AAAAAAFvSdIbb2a8Pkg="
-											},
-											"model": {
-												"$ref": "AAAAAAFvSeXkSWi8L9Q="
-											},
-											"font": "Arial;13;0",
-											"left": -43,
-											"top": -27,
-											"width": 97.18896484375,
-											"height": 13,
-											"text": "+potvrdiUnos()",
-											"horizontalAlignment": 0
-										}
-									],
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": -48,
 									"top": -32,
 									"width": 107.18896484375,
-									"height": 38
+									"height": 23
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -909,23 +890,6 @@
 										"$ref": "AAAAAAFvSdI3lGbeaKA="
 									},
 									"subViews": [
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAFvSf+ja2noypk=",
-											"_parent": {
-												"$ref": "AAAAAAFvSdI3vmbmCgw="
-											},
-											"model": {
-												"$ref": "AAAAAAFvSfFyxGlhkME="
-											},
-											"font": "Arial;13;0",
-											"left": 13,
-											"top": -11,
-											"width": 153.54345703125,
-											"height": 13,
-											"text": "+provjeriPodatke(podaci)()",
-											"horizontalAlignment": 0
-										},
 										{
 											"_type": "UMLOperationView",
 											"_id": "AAAAAAFvTJtXOyuiyrM=",
@@ -1447,11 +1411,11 @@
 					"operations": [
 						{
 							"_type": "UMLOperation",
-							"_id": "AAAAAAFvSeXkSWi8L9Q=",
+							"_id": "AAAAAAFv2L2j8k32BRM=",
 							"_parent": {
 								"$ref": "AAAAAAFvSdIbbma05so="
 							},
-							"name": "potvrdiUnos"
+							"name": "prikaziObavjestenje"
 						}
 					]
 				},
@@ -1466,14 +1430,6 @@
 						"$ref": "AAAAAAFvSdE3nWYqRKE="
 					},
 					"operations": [
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAFvSfFyxGlhkME=",
-							"_parent": {
-								"$ref": "AAAAAAFvSdI3lGbeaKA="
-							},
-							"name": "provjeriPodatke(podaci)"
-						},
 						{
 							"_type": "UMLOperation",
 							"_id": "AAAAAAFvTDriey/fmDU=",
@@ -5233,6 +5189,9 @@
 									"target": {
 										"$ref": "AAAAAAFvSeDiDWgk5S4="
 									},
+									"signature": {
+										"$ref": "AAAAAAFv2L2j8k32BRM="
+									},
 									"arguments": "status"
 								},
 								{
@@ -5754,7 +5713,7 @@
 									"left": 36,
 									"top": 116,
 									"width": 95.61083984375,
-									"height": 23
+									"height": 10
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -6276,31 +6235,11 @@
 									"model": {
 										"$ref": "AAAAAAFvSdIbbma05so="
 									},
-									"subViews": [
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAFv1vSWnXrIrwE=",
-											"_parent": {
-												"$ref": "AAAAAAFv1vSWenqpcNE="
-											},
-											"model": {
-												"$ref": "AAAAAAFvSeXkSWi8L9Q="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": 411,
-											"top": 298,
-											"width": 106.20263671875,
-											"height": 13,
-											"text": "+potvrdiUnos()",
-											"horizontalAlignment": 0
-										}
-									],
 									"font": "Arial;13;0",
 									"left": 406,
 									"top": 293,
 									"width": 116.20263671875,
-									"height": 25
+									"height": 10
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -6466,23 +6405,6 @@
 										"$ref": "AAAAAAFvSdI3lGbeaKA="
 									},
 									"subViews": [
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAFv1vSlMXr1Pbk=",
-											"_parent": {
-												"$ref": "AAAAAAFv1vSlEnrWRyk="
-											},
-											"model": {
-												"$ref": "AAAAAAFvSfFyxGlhkME="
-											},
-											"font": "Arial;13;0",
-											"left": 322,
-											"top": 471,
-											"width": 153.54345703125,
-											"height": 13,
-											"text": "+provjeriPodatke(podaci)()",
-											"horizontalAlignment": 0
-										},
 										{
 											"_type": "UMLOperationView",
 											"_id": "AAAAAAFv1vSlMnr4R8I=",
